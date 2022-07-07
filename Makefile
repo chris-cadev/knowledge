@@ -18,3 +18,15 @@ update-force: ## Forcefully pull all changes and don't ask to patch
 
 serve: ## Serve Quartz locally
 	hugo-obsidian -input=content -output=assets/indices -index -root=. && hugo server --enableGitInfo
+
+sync-content: rm-content
+	rsync -r -progress files/Zettelkasten/* content
+	bash ./copy_linked_notes.sh
+
+rm-content:
+	@rm -rf content
+
+pull-files:
+	@git submodule update --init
+	@git -C files checkout main
+	@git -C files pull

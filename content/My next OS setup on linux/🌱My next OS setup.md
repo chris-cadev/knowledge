@@ -1,0 +1,39 @@
+> OS switch started at: 2022-06-30
+
+This is my [[daily basis software]]
+This are [[daily basis shortcuts|my shorcuts]]
+Some [[Windows PC backups]] need to be done
+
+I also want to play [[list of my daily videogames|this games]] to play them I could use [[Lutris]] for ubuntu
+
+I do not know what distro to choose, probably will be ubuntu with some tiling window manager
+
+[[2022-06 desktop pc hardwere specs]]
+
+[[Del or F8 key to enter boot menu]]
+Samsung Evo es el nombre del m.2
+We need to boot the USB with balena etcher
+
+---
+# Flows
+- [[Daily basis & workflow flow]]
+- [[Entretaiment & content creation flow]]
+
+---
+# single boot, linux
+## Disadventages
+- short of gaming (dont care)
+## Adventages
+- Learn to use linux by imposioning to use it
+- 
+# dual boot, windows & linux
+## Disadventages
+- I will not use the full power of linux
+	- for example run a server while you are working in another thing
+- boot a system to use some specific software
+## Adventages
+- full gamming
+- partial power of servers
+
+---
+[[to boot a windows iso from ubuntu OS you need to use WoeUSB]] and download the [[windows 11 iso image]]

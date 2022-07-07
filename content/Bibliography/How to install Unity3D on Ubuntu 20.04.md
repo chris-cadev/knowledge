@@ -1,0 +1,13 @@
+source:: https://www.youtube.com/watch?v=h-xqyw720ac
+type:: #📽️video
+author:: [[linux made simple]]
+status:: #🚦status/finished
+#linux #os/ubuntu #unity 
+
+---
+
+# How to install Unity3D on Ubuntu 20.04
+
+## Extracts
+
+- [[easier to download the appimage of unity]]
