@@ -1,3 +1,10 @@
+---
+title: fb-friends-crawler svg
+tags:
+- 🖼️image
+- tech/vizualization
+---
+
 type:: #🖼️image
 position:: https://www.facebook.com/groups/731372100390914/posts/884607038400752/
 author:: [[Christian Camacho]]

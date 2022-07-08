@@ -1,3 +1,8 @@
+---
+title: Publishing all my knowledge
+tags:
+---
+
 I will use [[Quartz 3|quartz]] to make it happen.
 
 ---

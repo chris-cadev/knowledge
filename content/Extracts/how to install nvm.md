@@ -1,3 +1,11 @@
+---
+title: how to install nvm
+tags:
+- ✨extract
+- tech/bash
+- tech/nodejs
+---
+
 type:: #✨extract
 author:: [[nvm.sh]]
 position:: https://github.com/nvm-sh/nvm#install--update-script

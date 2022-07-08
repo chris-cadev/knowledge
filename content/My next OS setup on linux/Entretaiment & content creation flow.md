@@ -1,3 +1,8 @@
+---
+title: Entretaiment & content creation flow
+tags:
+---
+
 ## steps to get there
 1. turn on (or reset) the computer
 2. select boot as windows

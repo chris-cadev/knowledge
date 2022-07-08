@@ -22,6 +22,8 @@ serve: ## Serve Quartz locally
 sync-content: rm-content
 	rsync -r -progress files/Zettelkasten/* content
 	bash ./copy_linked_notes.sh
+	bash ./content_to_quartz_format.sh
+	bash ./rename_main_page.sh
 
 rm-content:
 	@rm -rf content

@@ -1,3 +1,10 @@
+---
+title: Strategy pattern
+tags:
+- 📄article
+- 🚦status/finished
+---
+
 source:: https://refactoring.guru/design-patterns/strategy
 type:: #📄article
 author:: [[Refactoring.GURU.]]

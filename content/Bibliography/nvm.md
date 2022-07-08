@@ -1,3 +1,11 @@
+---
+title: nvm
+tags:
+- 📖docs
+- 🚦status/finished
+- tech/nodejs
+---
+
 source:: https://github.com/nvm-sh/nvm#installing-and-updating
 type:: #📖docs
 author:: [[nvm.sh]]

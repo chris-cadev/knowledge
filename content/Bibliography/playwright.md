@@ -1,3 +1,13 @@
+---
+title: playwright
+tags:
+- 🌐website
+- 🚦status/in-progress
+- tech/testing
+- tech/python
+- tech/nodejs
+---
+
 source:: https://playwright.dev/
 type:: #🌐website
 author:: [[Microsoft]]

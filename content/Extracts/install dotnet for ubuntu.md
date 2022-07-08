@@ -1,3 +1,11 @@
+---
+title: install dotnet for ubuntu
+tags:
+- ✨extract
+- unity
+- os/ubuntu
+---
+
 type:: #✨extract
 author:: [[mikenizo808]]
 position:: https://github.com/mikenizo808/Quick-Setup-for-Unity3D-on-Ubuntu-20.04-LTS#install-net at [[ubuntu-unity quick setup]]

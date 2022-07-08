@@ -1,3 +1,13 @@
+---
+title: Network of The Witcher - Relationship Extraction & Network Analysis with Spacy & NetworkX
+tags:
+- 📽️video
+- 🚦status/in-progress
+- tech/programming
+- tech/python
+- tech/vizualization
+---
+
 source:: https://www.youtube.com/watch?v=fAHkJ_Dhr50
 type:: #📽️video
 author:: [[Thu Vu data analytics]]

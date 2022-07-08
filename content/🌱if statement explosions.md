@@ -1,3 +1,8 @@
+---
+title: 🌱if statement explosions
+tags:
+---
+
 it is like [[class explosions]] but this happens when you have like to much things to choose from and you tackle that using if statements
 example:
 ```js

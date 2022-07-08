@@ -1,3 +1,8 @@
+---
+title: 🌱How to install Unity 3D in Ubuntu
+tags:
+---
+
 ## TLDR
 > how to install all the necessary stuff to get unity running
 

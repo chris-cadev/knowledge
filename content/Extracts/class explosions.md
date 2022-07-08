@@ -1,3 +1,11 @@
+---
+title: class explosions
+tags:
+- ✨extract
+- tech/programming
+- tech/architecture
+---
+
 type:: #✨extract
 position:: https://youtu.be/v9ejT8FO-7I?t=913
 author:: [[Christopher Okhravi]]

@@ -1,3 +1,10 @@
+---
+title: Anchoring bias
+tags:
+- ✨extract
+- bias
+---
+
 type:: #✨extract
 position:: 18
 author:: [[Carly Hallman]]

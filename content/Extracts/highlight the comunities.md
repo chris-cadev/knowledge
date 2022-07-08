@@ -1,3 +1,10 @@
+---
+title: highlight the comunities
+tags:
+- ✨extract
+- tech/vizualization
+---
+
 type:: #✨extract
 position:: https://youtu.be/kbLFMObmLNQ?t=285
 author:: [[Data J Lab]]

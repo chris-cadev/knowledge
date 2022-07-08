@@ -1,3 +1,8 @@
+---
+title: idea para pelicula o serie
+tags:
+---
+
 se lanzan naves para estudiar a la sociedad, con la esperanza de que uno de los estudios sea la respuesta de como salvar al planeta
 
 se lanzan con muchas personas dentro y las naves son enormes y con muchos lujos

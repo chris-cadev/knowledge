@@ -1,3 +1,12 @@
+---
+title: ubuntu-unity quick setup
+tags:
+- 📄article
+- 🚦status/in-progress
+- os/ubuntu
+- unity
+---
+
 source:: https://github.com/mikenizo808/Quick-Setup-for-Unity3D-on-Ubuntu-20.04-LTS
 type:: #📄article
 author:: [[mikenizo808]]

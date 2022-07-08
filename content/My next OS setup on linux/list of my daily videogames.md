@@ -1,3 +1,8 @@
+---
+title: list of my daily videogames
+tags:
+---
+
 # list of my daily videogames
 - Rocket league
 - Golf with friends

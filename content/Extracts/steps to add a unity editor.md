@@ -1,3 +1,10 @@
+---
+title: steps to add a unity editor
+tags:
+- ✍️annotation
+- unity
+---
+
 type:: #✍️annotation
 author:: [[]]
 position:: https://forum.unity.com/threads/no-editor-installed.893605/#post-5872465 at [[Unity Forum - No Editor Installed]]

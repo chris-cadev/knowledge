@@ -1,3 +1,9 @@
+---
+title: 🌱concepto de islas para tratar temas
+tags:
+- work/thermo
+---
+
 #work/thermo
 cuando estaba buscando un chat [[Javi]] para comunicar algo, tenia que buscar entre un monton de cosas
 para eso entra el concepto de islas, que agrupa los chats necesarios de un tema en especifico, en este caso EKS

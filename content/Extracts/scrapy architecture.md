@@ -1,3 +1,12 @@
+---
+title: scrapy architecture
+tags:
+- 🖼️image
+- tech/python
+- tech/architecture
+- tech/data-extraction
+---
+
 type:: #🖼️image
 position:: https://docs.scrapy.org/en/latest/topics/architecture.html
 author:: [[Scrapy developers]]

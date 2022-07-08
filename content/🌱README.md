@@ -1,5 +1,11 @@
+---
+title: 🌱README
+tags:
+- zettelkasten
+---
+
 # Knowledge-base
-Este folder almacena notas relacionadas al conocimiento de Christian Camacho (un poco de mas informacion [[🌱 README.Sobre este knowledge-base|aqui]])
+Este folder almacena notas relacionadas al conocimiento de Christian Camacho (un poco de mas informacion [[🌱Sobre este knowledge-base|aqui]])
 
 ## Como almacenar conocimiento
 1. Tomar un [[Elemento bibliografico]]

@@ -1,3 +1,8 @@
+---
+title: 🌱Rainbow triangle
+tags:
+---
+
 Rainbow triangle era un juego que cree en preparatoria para que lo jugaran mis amigos en ese entonces, pero solo era eso. Ahora lo voy recrear con las abilidades que tengo ahora esperando que se va ver mucho mejor.
 
 Este es link al antiguo juego, creo que ya ni esta la forma de descargarlo:

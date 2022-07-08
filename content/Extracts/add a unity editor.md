@@ -1,3 +1,10 @@
+---
+title: add a unity editor
+tags:
+- ✨extract
+- unity
+---
+
 type:: #✨extract
 author:: [[safaGH]]
 position:: https://forum.unity.com/threads/no-editor-installed.893605/#post-5872465 at [[Unity Forum - No Editor Installed]]

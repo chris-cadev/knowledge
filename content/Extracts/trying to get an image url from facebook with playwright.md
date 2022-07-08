@@ -1,3 +1,9 @@
+---
+title: trying to get an image url from facebook with playwright
+tags:
+- ✍️annotation
+---
+
 type:: #✍️annotation
 position:: 
 author:: [[Christian Camacho]]

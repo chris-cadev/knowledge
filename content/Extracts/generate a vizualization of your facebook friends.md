@@ -1,3 +1,11 @@
+---
+title: generate a vizualization of your facebook friends
+tags:
+- ✍️annotation
+- tech/graph
+- tech/vizualization
+---
+
 type:: #✍️annotation
 position:: https://youtu.be/kbLFMObmLNQ?t=129
 author:: 

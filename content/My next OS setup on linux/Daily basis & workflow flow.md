@@ -1,3 +1,9 @@
+---
+title: Daily basis & workflow flow
+tags:
+- workflow
+---
+
 #workflow
 ### steps to get there
 1. turn on (or reset) the computer

@@ -1,3 +1,11 @@
+---
+title: Iterator pattern
+tags:
+- 📄article
+- 🚦status/in-progress
+- design-patterns/iterator
+---
+
 source:: https://refactoring.guru/design-patterns/iterator
 type:: #📄article
 author:: [[Refactoring.GURU.]]

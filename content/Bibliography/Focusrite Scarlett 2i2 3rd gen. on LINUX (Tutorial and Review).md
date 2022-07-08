@@ -1,3 +1,12 @@
+---
+title: Focusrite Scarlett 2i2 3rd gen. on LINUX (Tutorial and Review)
+tags:
+- 📽️video
+- 🚦status/in-progress
+- tech/audio
+- linux
+---
+
 source:: https://www.youtube.com/watch?v=5zFA5piXf8Q
 type:: #📽️video
 author:: [[unfa🇺🇦]]

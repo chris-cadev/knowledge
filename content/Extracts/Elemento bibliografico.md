@@ -1,3 +1,9 @@
+---
+title: Elemento bibliografico
+tags:
+- ✍️annotation
+---
+
 type:: #✍️annotation
 position:: https://youtu.be/2rV13AhSHgs?t=312
 author:: [[Ruben Loan]]

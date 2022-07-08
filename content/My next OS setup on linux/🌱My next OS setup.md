@@ -1,3 +1,8 @@
+---
+title: 🌱My next OS setup
+tags:
+---
+
 > OS switch started at: 2022-06-30
 
 This is my [[daily basis software]]

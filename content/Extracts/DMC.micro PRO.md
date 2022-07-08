@@ -1,3 +1,9 @@
+---
+title: DMC.micro PRO
+tags:
+- 🖼️image
+---
+
 type:: #🖼️image
 position:: 
 author::

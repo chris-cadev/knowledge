@@ -1,3 +1,10 @@
+---
+title: quartz template from github
+tags:
+- 🔗reference
+- obsidian
+---
+
 type:: #🔗reference
 author:: [[jackyzha0]]
 position:: https://github.com/jackyzha0/quartz/generate

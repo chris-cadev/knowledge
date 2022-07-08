@@ -1,3 +1,9 @@
+---
+title: windows 11 iso image
+tags:
+- ✨extract
+---
+
 type:: #✨extract
 author:: [[windows devs]]
 position:: https://www.microsoft.com/software-download/windows11

@@ -1,3 +1,9 @@
+---
+title: Reset DMC.micro PRO to use C4 SYNTH
+tags:
+- ✨extract
+---
+
 type:: #✨extract
 position:: https://youtu.be/WBlSE6a7ecw?t=65
 author:: [[Disaster Area Designs]]

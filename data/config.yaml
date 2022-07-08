@@ -1,6 +1,6 @@
-name: Jacky Zhao
+name: Christian Camacho
 enableToc: true
-openToc: false
+openToc: true
 enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
@@ -10,14 +10,13 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: false
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
-description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
-page_title:
-  "🪴 Quartz 3.2"
+GitHubLink: https://github.com/chris-cadev/knowledge
+description: Here is where chris_cadev publishes his notes to the world.
+  The topics comes from tech to cuisine and random stuff.
+page_title: "🦦 chris_cadev notes"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/chris_cadev
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/chris-cadev
+mainPage: 🌱Sobre este knowledge-base

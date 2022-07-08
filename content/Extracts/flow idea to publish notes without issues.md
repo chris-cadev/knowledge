@@ -1,3 +1,11 @@
+---
+title: flow idea to publish notes without issues
+tags:
+- ✍️annotation
+- obsidian
+- blog
+---
+
 type:: #✍️annotation
 author:: [[Christian Camacho]]
 position:: 

@@ -1,3 +1,11 @@
+---
+title: Lutris
+tags:
+- 🔗reference
+- tech/os
+- linux/gaming
+---
+
 type:: #🔗reference
 position:: https://youtu.be/_ZCEiFA8ezA?t=1216
 author:: [[Mental Outlaw]]

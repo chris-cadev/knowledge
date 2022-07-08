@@ -1,3 +1,11 @@
+---
+title: resolve issue of No useable version of libssl
+tags:
+- ✨extract
+- unity
+- os/ubuntu
+---
+
 type:: #✨extract
 author:: [[AlfieBooth]]
 position:: https://forum.unity.com/threads/workaround-for-libssl-issue-on-ubuntu-22-04.1271405/ at [[Workaround for libssl issue on Ubuntu 22.04]]

@@ -1,3 +1,8 @@
+---
+title: daily basis software
+tags:
+---
+
 This is my daily basis software. I use this in windows 11 and work perfectly.
 ## Communication
 - zoom

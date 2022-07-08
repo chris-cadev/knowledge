@@ -1,3 +1,12 @@
+---
+title: Quartz 3
+tags:
+- 📖docs
+- 🚦status/finished
+- obsidian
+- blog
+---
+
 source:: https://quartz.jzhao.xyz/
 type:: #📖docs
 author:: [[jackyzha0]]

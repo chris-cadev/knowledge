@@ -1,3 +1,11 @@
+---
+title: 🌿How to connect DMC.micro PRO with C4 SYNTH
+tags:
+- tech/audio
+- music
+- class/guitar
+---
+
 #tech/audio #music #class/guitar
 # How to connect [[DMC.micro PRO]] with [[C4 SYNTH]]
 

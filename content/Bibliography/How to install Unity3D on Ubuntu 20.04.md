@@ -1,3 +1,13 @@
+---
+title: How to install Unity3D on Ubuntu 20.04
+tags:
+- 📽️video
+- 🚦status/finished
+- linux
+- os/ubuntu
+- unity
+---
+
 source:: https://www.youtube.com/watch?v=h-xqyw720ac
 type:: #📽️video
 author:: [[linux made simple]]

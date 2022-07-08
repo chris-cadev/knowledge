@@ -1,3 +1,10 @@
+---
+title: 🌱Sobre este knowledge-base
+tags:
+- tech
+- programming
+---
+
 # Sobre este knowledge-base
 Este knowledge base tiene el objetivo de acumular informacion relacionada a los conocimientos propios de Christian Camacho. La mayoria de la informacion que va encontrar en este obsidian vault es informacion sobre #tech #programming y cosas que me encuentro en el dia a dia, como:
 - salidas que tengo

@@ -1,3 +1,10 @@
+---
+title: Conditional Complexity
+tags:
+- ✨extract
+- programming/bad-practices
+---
+
 type:: #✨extract
 position:: https://pragmaticways.com/31-code-smells-you-must-know/#17_Conditional_Complexity
 author:: [[Pragmatic Ways]]

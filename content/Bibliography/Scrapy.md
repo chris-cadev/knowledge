@@ -1,3 +1,11 @@
+---
+title: Scrapy
+tags:
+- 🌐website
+- 🚦status/backlog
+- tech/python
+---
+
 source:: https://scrapy.org/
 type:: #🌐website
 author:: [[Pablo Hoffman]]
