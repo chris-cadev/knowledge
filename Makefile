@@ -23,7 +23,7 @@ sync-content: rm-content
 	bash ./sync-files.sh
 	bash ./copy_linked_notes.sh
 	bash ./content_to_quartz_format.sh
-	# bash ./rename_main_page.sh
+	bash ./rename_main_page.sh
 	bash ./wikilinks_to_markdownlinks.sh
 
 rm-content:
