@@ -25,8 +25,7 @@ replace_wikilink_with_markdownlink() {
         return
     fi
     
-    local file_absolute_path=`echo "${link_filepath/"$root"/""}"`
-    file_absolute_path=`echo ${file_absolute_path/" "/"%20"}`
+    local file_absolute_path=`echo "${link_filepath/"$root"/""}" | sed 's/ /%20/g'`
     local markdownlink="[$placeholder]($file_absolute_path)"
     echo "${file_content/"$wikilink"/"$markdownlink"}" > "$file"
 }
