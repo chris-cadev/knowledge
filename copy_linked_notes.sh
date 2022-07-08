@@ -9,12 +9,14 @@ IFS=$'\n'
 for link_name in `get_links_not_in_directory $root | sort | uniq`; do
     for file in `find $resources -type f -name "*$link_name.md"`; do
         target_directory=`dirname $file | sed "s/$resources\///"`
+        # TODO: extract this statement to a function
+        if [[ "$target_directory" == *"Zettelkasten"* ]]; then
+            continue
+        fi
         file_name=`basename $file`
         target_file="$root/$target_directory/$file_name"
-        copy_command="cp \"$file\" \"$target_file\""
-        directory_command="mkdir -p `dirname $target_file`"
-        eval $directory_command
-        eval $copy_command
+        mkdir -p "`dirname $target_file`"
+        cp "$file" "$target_file"
     done
 done
 unset IFS

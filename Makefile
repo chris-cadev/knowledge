@@ -20,11 +20,11 @@ serve: ## Serve Quartz locally
 	hugo-obsidian -input=content -output=assets/indices -index -root=. && hugo server --enableGitInfo
 
 sync-content: rm-content
-	rsync -r -progress files/Zettelkasten/* content
+	bash ./sync-files.sh
 	bash ./copy_linked_notes.sh
-	bash ./wikilinks_to_markdownlinks.sh
 	bash ./content_to_quartz_format.sh
 	# bash ./rename_main_page.sh
+	bash ./wikilinks_to_markdownlinks.sh
 
 rm-content:
 	@rm -rf content
