@@ -32,7 +32,7 @@ rename_main_page() {
         exit 1
     fi
 
-    local move_command="mv \"$main_file\" \"$root/index.md\""
+    local move_command="mv \"$main_file\" \"$root/_index.md\""
     eval $move_command
 }
 

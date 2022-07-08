@@ -32,3 +32,8 @@ pull-files:
 	@git submodule update --init
 	@git -C files checkout main
 	@git -C files pull
+
+upload-content: pull-files sync-content
+	git add content
+	git commit -m "lazy update"
+	git push origin hugo
