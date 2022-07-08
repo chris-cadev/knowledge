@@ -12,3 +12,4 @@ tags:
 - journey importing linked notes with my zettelkasten notes
 - it lacks of custom formating from the principal vault
 - i do not like to have my content managed in the same folder I write scripts to deal with the website (github pages)
+- issue with the 
