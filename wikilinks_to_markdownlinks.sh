@@ -15,17 +15,18 @@ replace_wikilink_with_markdownlink() {
         placeholder="$filename"
     fi
 
-    local filepath=`find "$root" -type f -name "*$filename.*"`
-    if [[ -z `echo "$filepath"` ]]; then
+    local link_filepath=`find "$root" -type f -name "*$filename.*"`
+    if [[ -z `echo "$link_filepath"` ]]; then
         return
     fi    
-    local files_found_count=`cat <<< $filepath | wc -l`
+    local files_found_count=`cat <<< $link_filepath | wc -l`
     if [[ $files_found_count != "1" ]]; then
         # to many files case
         return
     fi
     
-    local file_absolute_path=`echo "${filepath/"$root"/""}"`
+    local file_absolute_path=`echo "${link_filepath/"$root"/""}"`
+    file_absolute_path=`echo ${file_absolute_path/" "/"%20"}`
     local markdownlink="[$placeholder]($file_absolute_path)"
     echo "${file_content/"$wikilink"/"$markdownlink"}" > "$file"
 }
