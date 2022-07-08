@@ -22,8 +22,9 @@ serve: ## Serve Quartz locally
 sync-content: rm-content
 	rsync -r -progress files/Zettelkasten/* content
 	bash ./copy_linked_notes.sh
+	bash ./wikilinks_to_markdownlinks.sh
 	bash ./content_to_quartz_format.sh
-	bash ./rename_main_page.sh
+	# bash ./rename_main_page.sh
 
 rm-content:
 	@rm -rf content
@@ -34,6 +35,6 @@ pull-files:
 	@git -C files pull
 
 upload-content: pull-files sync-content
-	git add content
+	git add files content
 	git commit -m "content update"
 	git push origin hugo
