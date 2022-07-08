@@ -25,7 +25,8 @@ replace_wikilink_with_markdownlink() {
         return
     fi
     
-    local markdownlink="[$placeholder]($filepath)"
+    local file_absolute_path=`echo "${filepath/"$root"/""}"`
+    local markdownlink="[$placeholder]($file_absolute_path)"
     echo "${file_content/"$wikilink"/"$markdownlink"}" > "$file"
 }
 
