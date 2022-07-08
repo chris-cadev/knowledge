@@ -10,7 +10,7 @@ tags:
 
 Its objective is to create a graph from any network to give the people the graphical information to know the people or entities are around their profiles.
 # Introduction
-Few years ago I was searching for a way to generate a graph of my friends in facebook, most because I didn't know how to talk without overthinking in that moment. So I started searching for a tool that give that kind of graph. I found a video titled [Gephi Tutorial - Visualizing Facebook Network](/Bibliography/Gephi%20Tutorial - Visualizing Facebook Network.md). There the dude explains how to use [[netvizz]] and [[Gephi]] to [generate a vizualization of your facebook friends](/Extracts/generate%20a vizualization of your facebook friends.md) and [highlight the comunities](/Extracts/highlight%20the comunities.md). It work at the moment but it has its flaws. For example: the final export does not conbinced me because it was a little bit meassy with my friends-net. So i decided to generate my own data set to pass it to Gephi. And so I do, and this was the result:
+Few years ago I was searching for a way to generate a graph of my friends in facebook, most because I didn't know how to talk without overthinking in that moment. So I started searching for a tool that give that kind of graph. I found a video titled [Gephi Tutorial - Visualizing Facebook Network](/Bibliography/Gephi%20Tutorial%20-%20Visualizing%20Facebook%20Network.md). There the dude explains how to use [[netvizz]] and [[Gephi]] to [generate a vizualization of your facebook friends](/Extracts/generate%20a%20vizualization%20of%20your%20facebook%20friends.md) and [highlight the comunities](/Extracts/highlight%20the%20comunities.md). It work at the moment but it has its flaws. For example: the final export does not conbinced me because it was a little bit meassy with my friends-net. So i decided to generate my own data set to pass it to Gephi. And so I do, and this was the result:
 ![fb-friends-crawler svg](/Extracts/fb-friends-crawler%20svg.md)
 
 - OSSI is a project based on the idea of https://github.com/ricexen/OSSI
@@ -44,7 +44,7 @@ in the journey I learn that [[scrapy carries the responsability of csrf token fo
 Then when I realize that with [[playwright]] I can get the cookies, it gives me a fresh air about how to deal with the problem
 
 # Libraries
-for this project all the libraries are in the requirements.txt file, but most of them were from the video [Network of The Witcher - Relationship Extraction & Network Analysis with Spacy & NetworkX](/Bibliography/Network%20of The Witcher - Relationship Extraction & Network Analysis with Spacy & NetworkX.md)
+for this project all the libraries are in the requirements.txt file, but most of them were from the video [Network of The Witcher - Relationship Extraction & Network Analysis with Spacy & NetworkX](/Bibliography/Network%20of%20The%20Witcher%20-%20Relationship%20Extraction%20&%20Network%20Analysis%20with%20Spacy%20&%20NetworkX.md)
 Also its going to use [[Scrapy]] para extraer los datos de las redes sociales
 
 # Architecture

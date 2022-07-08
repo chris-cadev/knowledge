@@ -19,4 +19,4 @@ status:: #🚦status/in-progress
 
 ## Extracts
 
-- [install dotnet for ubuntu](/Extracts/install%20dotnet for ubuntu.md)
+- [install dotnet for ubuntu](/Extracts/install%20dotnet%20for%20ubuntu.md)
