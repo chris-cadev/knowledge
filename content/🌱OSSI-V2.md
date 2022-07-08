@@ -10,8 +10,8 @@ tags:
 
 Its objective is to create a graph from any network to give the people the graphical information to know the people or entities are around their profiles.
 # Introduction
-Few years ago I was searching for a way to generate a graph of my friends in facebook, most because I didn't know how to talk without overthinking in that moment. So I started searching for a tool that give that kind of graph. I found a video titled [Gephi Tutorial - Visualizing Facebook Network](content/Bibliography/Gephi Tutorial - Visualizing Facebook Network.md). There the dude explains how to use [[netvizz]] and [[Gephi]] to [generate a vizualization of your facebook friends](content/Extracts/generate a vizualization of your facebook friends.md) and [highlight the comunities](content/Extracts/highlight the comunities.md). It work at the moment but it has its flaws. For example: the final export does not conbinced me because it was a little bit meassy with my friends-net. So i decided to generate my own data set to pass it to Gephi. And so I do, and this was the result:
-![fb-friends-crawler svg](content/Extracts/fb-friends-crawler svg.md)
+Few years ago I was searching for a way to generate a graph of my friends in facebook, most because I didn't know how to talk without overthinking in that moment. So I started searching for a tool that give that kind of graph. I found a video titled [Gephi Tutorial - Visualizing Facebook Network](/Bibliography/Gephi Tutorial - Visualizing Facebook Network.md). There the dude explains how to use [[netvizz]] and [[Gephi]] to [generate a vizualization of your facebook friends](/Extracts/generate a vizualization of your facebook friends.md) and [highlight the comunities](/Extracts/highlight the comunities.md). It work at the moment but it has its flaws. For example: the final export does not conbinced me because it was a little bit meassy with my friends-net. So i decided to generate my own data set to pass it to Gephi. And so I do, and this was the result:
+![fb-friends-crawler svg](/Extracts/fb-friends-crawler svg.md)
 
 - OSSI is a project based on the idea of https://github.com/ricexen/OSSI
 - OSSI means Open Source Social information
@@ -40,12 +40,12 @@ with sync_playwright() as playwright_api:
 		wait()
 	cookies = browser.cookies(urls=['https://www.facebook.com'])
 ```
-in the journey I learn that [[scrapy carries the responsability of csrf token for you]] I studied the [scrapy architecture](content/Extracts/scrapy architecture.md) to know if something there gives me a clue to know how to deal with the login to facebook.
+in the journey I learn that [[scrapy carries the responsability of csrf token for you]] I studied the [scrapy architecture](/Extracts/scrapy architecture.md) to know if something there gives me a clue to know how to deal with the login to facebook.
 Then when I realize that with [[playwright]] I can get the cookies, it gives me a fresh air about how to deal with the problem
 
 # Libraries
-for this project all the libraries are in the requirements.txt file, but most of them were from the video [Network of The Witcher - Relationship Extraction & Network Analysis with Spacy & NetworkX](content/Bibliography/Network of The Witcher - Relationship Extraction & Network Analysis with Spacy & NetworkX.md)
+for this project all the libraries are in the requirements.txt file, but most of them were from the video [Network of The Witcher - Relationship Extraction & Network Analysis with Spacy & NetworkX](/Bibliography/Network of The Witcher - Relationship Extraction & Network Analysis with Spacy & NetworkX.md)
 Also its going to use [[Scrapy]] para extraer los datos de las redes sociales
 
 # Architecture
-For the architecture of this project its using [Factory Method](content/Bibliography/Factory Method.md), [Iterator pattern](content/Bibliography/Iterator pattern.md), [Strategy pattern](content/Bibliography/Strategy pattern.md)
+For the architecture of this project its using [Factory Method](/Bibliography/Factory Method.md), [Iterator pattern](/Bibliography/Iterator pattern.md), [Strategy pattern](/Bibliography/Strategy pattern.md)

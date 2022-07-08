@@ -19,4 +19,4 @@ status:: #🚦status/finished
 
 ## Extracts
 
-- [resolve issue of No useable version of libssl](content/Extracts/resolve issue of No useable version of libssl.md)
+- [resolve issue of No useable version of libssl](/Extracts/resolve issue of No useable version of libssl.md)

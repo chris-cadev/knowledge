@@ -16,7 +16,7 @@ status:: #🚦status/in-progress
 
 ---
 
-# Network of The Witcher - Relationship Extraction & Network Analysis with [[Spacy]] & [NetworkX](content/Bibliography/Network of The Witcher - Relationship Extraction & Network Analysis with Spacy & NetworkX.md)
+# Network of The Witcher - Relationship Extraction & Network Analysis with [[Spacy]] & [NetworkX](/Bibliography/Network of The Witcher - Relationship Extraction & Network Analysis with Spacy & NetworkX.md)
 
 ## Extracts
 - [[way to create graph vizualization]]

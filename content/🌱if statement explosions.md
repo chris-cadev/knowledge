@@ -3,7 +3,7 @@ title: 🌱if statement explosions
 tags:
 ---
 
-it is like [class explosions](content/Extracts/class explosions.md) but this happens when you have like to much things to choose from and you tackle that using if statements
+it is like [class explosions](/Extracts/class explosions.md) but this happens when you have like to much things to choose from and you tackle that using if statements
 example:
 ```js
 if (x instanceof A) {
@@ -26,4 +26,4 @@ if (x instanceof F) {
 }
 ```
 
-it is related to a bad smell, [Conditional Complexity](content/Extracts/Conditional Complexity.md)
+it is related to a bad smell, [Conditional Complexity](/Extracts/Conditional Complexity.md)

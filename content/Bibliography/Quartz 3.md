@@ -20,6 +20,6 @@ status:: #🚦status/finished
 ## Extracts
 
 - [[quartz, a utility to host your obsidian notes]]
-- [quartz template from github](content/Extracts/quartz template from github.md)
+- [quartz template from github](/Extracts/quartz template from github.md)
 - [[quartz features]]
-- [flow idea to publish notes without issues](content/Extracts/flow idea to publish notes without issues.md)
+- [flow idea to publish notes without issues](/Extracts/flow idea to publish notes without issues.md)

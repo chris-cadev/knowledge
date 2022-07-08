@@ -8,7 +8,7 @@ tags:
 
 type:: #✍️annotation
 author:: [[]]
-position:: https://youtu.be/h-xqyw720ac?t=31 at [How to install Unity3D on Ubuntu 20.04](content/Bibliography/How to install Unity3D on Ubuntu 20.04.md)
+position:: https://youtu.be/h-xqyw720ac?t=31 at [How to install Unity3D on Ubuntu 20.04](/Bibliography/How to install Unity3D on Ubuntu 20.04.md)
 #unity #os/ubuntu  
 
 ---

@@ -9,7 +9,7 @@ tags:
 
 type:: #✍️annotation
 position:: https://youtu.be/VCfWZVmIoTY?t=46
-author:: [Disaster Area Designs](content/Extracts/web browser midi editor de Disaster Area Designs.md)
+author:: [Disaster Area Designs](/Extracts/web browser midi editor de Disaster Area Designs.md)
 #tech/audio  #tech/web #music 
 
 ---
