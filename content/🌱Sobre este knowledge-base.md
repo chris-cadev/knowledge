@@ -16,4 +16,4 @@ Este knowledge base tiene el objetivo de acumular informacion relacionada a los 
 Basicamente es un pedazo de mi cerebro con el objetivo de crear contenido nuevo que mi cerebro quiere crear.
 
 ---
-Tener en cuenta que este vault de conocimiento esta [[Anchoring bias]] por bibliagrafias actualmente (2022-06-22).
+Tener en cuenta que este vault de conocimiento esta [Anchoring bias](content/Extracts/Anchoring bias.md) por bibliagrafias actualmente (2022-06-22).

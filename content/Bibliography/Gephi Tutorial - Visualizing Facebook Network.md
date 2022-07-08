@@ -16,5 +16,5 @@ status:: #🚦status/finished
 
 ## Extracts
 - [[use netvizz to download your facebook relationships]]
-- [[generate a vizualization of your facebook friends]]
-- [[highlight the comunities]]
+- [generate a vizualization of your facebook friends](content/Extracts/generate a vizualization of your facebook friends.md)
+- [highlight the comunities](content/Extracts/highlight the comunities.md)

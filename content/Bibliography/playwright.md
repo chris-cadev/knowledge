@@ -19,4 +19,4 @@ status:: #🚦status/in-progress
 # playwright
 
 ## Extracts
-- [[trying to get an image url from facebook with playwright]]
+- [trying to get an image url from facebook with playwright](content/Extracts/trying to get an image url from facebook with playwright.md)

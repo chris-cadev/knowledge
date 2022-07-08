@@ -11,7 +11,7 @@ author:: [[Scrapy developers]]
 ---
 
 # Basic concepts of Scrapy
-- [[scrapy architecture]]
+- [scrapy architecture](content/Extracts/scrapy architecture.md)
 - scheduler
 - downloader
 - spiders

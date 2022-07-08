@@ -20,4 +20,4 @@ status:: #🚦status/finished
 
 ## Extracts
 
-- [[easier to download the appimage of unity]]
+- [easier to download the appimage of unity](content/Extracts/easier to download the appimage of unity.md)

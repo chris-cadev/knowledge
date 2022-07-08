@@ -9,7 +9,7 @@ This is my daily basis software. I use this in windows 11 and work perfectly.
 - microsoft teams
 - slack
 - thunderbird
-- focusrite drivers ([[Focusrite Scarlett 2i2 3rd gen. on LINUX (Tutorial and Review)|how to]])
+- focusrite drivers ([Focusrite Scarlett 2i2 3rd gen. on LINUX (Tutorial and Review)](content/Bibliography/Focusrite Scarlett 2i2 3rd gen. on LINUX (Tutorial and Review).md))
 ## Remote control
 - [Nomachine](https://www.nomachine.com/)
 - [any desk](https://anydesk.com/en)
@@ -38,7 +38,7 @@ This is my daily basis software. I use this in windows 11 and work perfectly.
 # Content creation
 ## Recording
 - obs
-- elgato capture device -> [[Streaming on Linux using Elgato Game Capture HD and OBS Studio]]
+- elgato capture device -> [Streaming on Linux using Elgato Game Capture HD and OBS Studio](content/Bibliography/Streaming on Linux using Elgato Game Capture HD and OBS Studio.md)
 - audacity
 - hidmacros
 - ShareX

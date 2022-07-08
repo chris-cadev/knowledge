@@ -9,6 +9,6 @@ tags:
 #tech/audio #music #class/guitar
 # How to connect [[DMC.micro PRO]] with [[C4 SYNTH]]
 
-- [[What does DMC.micro PRO]]
-- [[Reset DMC.micro PRO to use C4 SYNTH]]
-- [[web browser midi editor de Disaster Area Designs]] 
+- [What does DMC.micro PRO](content/Extracts/What does DMC.micro PRO.md)
+- [Reset DMC.micro PRO to use C4 SYNTH](content/Extracts/Reset DMC.micro PRO to use C4 SYNTH.md)
+- [web browser midi editor de Disaster Area Designs](content/Extracts/web browser midi editor de Disaster Area Designs.md) 

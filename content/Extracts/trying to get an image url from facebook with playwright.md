@@ -11,7 +11,7 @@ author:: [[Christian Camacho]]
 ---
 
 # trying to get an image url from facebook with playwright
-when I was trying to build [[🌱OSSI-V2]] a new iteration of OSSI. I was using [[playwright]] library to build a part of extrating data
+when I was trying to build [🌱OSSI-V2](content/🌱OSSI-V2.md) a new iteration of OSSI. I was using [[playwright]] library to build a part of extrating data
 ```python
 with sync_playwright() as p:
             browser_context = p.chromium.launch_persistent_context(
