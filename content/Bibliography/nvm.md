@@ -18,4 +18,4 @@ status:: #🚦status/finished
 
 ## Extracts
 
-- [how to install nvm](/Extracts/how to install nvm.md)
+- [how to install nvm](/Extracts/how%20to install nvm.md)
