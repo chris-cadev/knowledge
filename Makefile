@@ -35,5 +35,5 @@ pull-files:
 
 upload-content: pull-files sync-content
 	git add content
-	git commit -m "lazy update"
+	git commit -m "content update"
 	git push origin hugo
