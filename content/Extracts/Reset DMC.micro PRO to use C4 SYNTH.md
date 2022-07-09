@@ -6,7 +6,7 @@ tags:
 
 type:: #✨extract
 position:: https://youtu.be/WBlSE6a7ecw?t=65
-author:: [Disaster Area Designs](/Extracts/web%20browser%20midi%20editor%20de%20Disaster%20Area%20Designs.md)
+author:: [Disaster Area Designs](/Extracts/web browser midi editor de Disaster Area Designs.md)
 
 ---
 
