@@ -223,13 +223,20 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     })
     .call(drag(simulation))
 
+  const parseIdToLabelText = (id, content) => {
+    let text = content[id]?.title || id.replace("-", " ")
+    if (text[0] === "/") {
+      text = text.replace("/", "")
+    }
+    return decodeURIComponent(text)
+  }
   // draw labels
   const labels = graphNode
     .append("text")
     .attr("dx", 0)
     .attr("dy", (d) => nodeRadius(d) + 8 + "px")
     .attr("text-anchor", "middle")
-    .text((d) => content[d.id]?.title || d.id.replace("-", " "))
+    .text((d) => parseIdToLabelText(d.id, content))
     .style("opacity", (opacityScale - 1) / 3.75)
     .style("pointer-events", "none")
     .style("font-size", fontSize + "em")
