@@ -9,7 +9,7 @@ tags:
 
 type:: #✨extract
 author:: [[mikenizo808]]
-position:: https://github.com/mikenizo808/Quick-Setup-for-Unity3D-on-Ubuntu-20.04-LTS#install-mono-by-microsoft at [ubuntu-unity quick setup](/Bibliography/ubuntu-unity quick setup.md)
+position:: https://github.com/mikenizo808/Quick-Setup-for-Unity3D-on-Ubuntu-20.04-LTS#install-mono-by-microsoft at [ubuntu-unity quick setup](/Bibliography/ubuntu-unity%20quick%20setup.md)
 #tech/bash #unity #os/ubuntu 
 
 ---

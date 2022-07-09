@@ -5,10 +5,10 @@ tags:
 ---
 
 # Knowledge-base
-Este folder almacena notas relacionadas al conocimiento de Christian Camacho (un poco de mas informacion [🌱Sobre este knowledge-base](/🌱Sobre este knowledge-base.md))
+Este folder almacena notas relacionadas al conocimiento de Christian Camacho (un poco de mas informacion [🌱Sobre este knowledge-base](/🌱Sobre%20este%20knowledge-base.md))
 
 ## Como almacenar conocimiento
-1. Tomar un [Elemento bibliografico](/Extracts/Elemento bibliografico.md)
+1. Tomar un [Elemento bibliografico](/Extracts/Elemento%20bibliografico.md)
 2. Partirlo en extractos pequeños
 3. (opcional) escribir una nota en el #zettelkasten 
 
