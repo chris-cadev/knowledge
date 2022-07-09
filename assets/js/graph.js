@@ -155,6 +155,12 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     return 3 + (numOut + numIn) / 4
   }
 
+  const removeEmojis = (id) => {
+    const emojiRegex =
+      /([\u2700-\u27BF]|[\uE000-\uF8FF]|\uD83C[\uDC00-\uDFFF]|\uD83D[\uDC00-\uDFFF]|[\u2011-\u26FF]|\uD83E[\uDD10-\uDDFF])/g
+    return id.replace(emojiRegex, "")
+  }
+
   // draw individual nodes
   const node = graphNode
     .append("circle")
@@ -164,20 +170,18 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     .attr("fill", color)
     .style("cursor", "pointer")
     .on("click", (_, d) => {
+      const id = removeEmojis(decodeURI(d.id))
       // SPA navigation
-      window.Million.navigate(
-        new URL(`${baseUrl}${decodeURI(d.id).replace(/\s+/g, "-")}/`),
-        ".singlePage",
-      )
+      window.Million.navigate(new URL(`${baseUrl}${id.replace(/\s+/g, "-")}/`), ".singlePage")
     })
     .on("mouseover", function (_, d) {
       d3.selectAll(".node").transition().duration(100).attr("fill", "var(--g-node-inactive)")
 
-      const neighbours = parseIdsFromLinks([
+      const neighbors = parseIdsFromLinks([
         ...(index.links[d.id] || []),
         ...(index.backlinks[d.id] || []),
       ])
-      const neighbourNodes = d3.selectAll(".node").filter((d) => neighbours.includes(d.id))
+      const neighborNodes = d3.selectAll(".node").filter((d) => neighbors.includes(d.id))
       const currentId = d.id
       window.Million.prefetch(new URL(`${baseUrl}${decodeURI(d.id).replace(/\s+/g, "-")}/`))
       const linkNodes = d3
@@ -185,7 +189,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         .filter((d) => d.source.id === currentId || d.target.id === currentId)
 
       // highlight neighbour nodes
-      neighbourNodes.transition().duration(200).attr("fill", color)
+      neighborNodes.transition().duration(200).attr("fill", color)
 
       // highlight links
       linkNodes.transition().duration(200).attr("stroke", "var(--g-link-active)")
