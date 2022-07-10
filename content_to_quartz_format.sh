@@ -42,7 +42,7 @@ cat <<< $note_content > $file
 root=${1:-'content'}
 
 IFS=$'\n'
-for file in $(find $root -type f); do
+for file in $(find $root -type f -name "*.md"); do
     convert_note_to_quartz_format $file
 done
 unset IFS
