@@ -1,5 +1,5 @@
 ---
-title: knowledge-storage
+title: 🌱knowledge-storage
 tags:
 - zettelkasten
 ---
