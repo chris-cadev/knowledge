@@ -7,7 +7,7 @@ tags:
 ---
 
 #tech/audio #music #class/guitar
-# How to connect [[DMC.micro PRO]] with [[C4 SYNTH]]
+# How to connect [DMC.micro PRO](/Extracts/DMC.micro%20PRO.md) with [[C4 SYNTH]]
 
 - [What does DMC.micro PRO](/Extracts/What%20does%20DMC.micro%20PRO.md)
 - [Reset DMC.micro PRO to use C4 SYNTH](/Extracts/Reset%20DMC.micro%20PRO%20to%20use%20C4%20SYNTH.md)

@@ -15,7 +15,7 @@ Primero empece a buscar un motor de juego, pero me di cuenta que no es la forma 
 El solo pensar en que usaria [[React Native]] me disparo el que deberia usar:
 - [[pnpm]]
 - [[typescript]]
-- [[nvm]]
+- [nvm](/Bibliography/nvm.md)
 ---
 es un martirio trabajar con skia para react native, y mas por los paths. Si resuelvo como animar los paths en react-native-skia voy a hacer un post.
 

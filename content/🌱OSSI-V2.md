@@ -17,7 +17,7 @@ Few years ago I was searching for a way to generate a graph of my friends in fac
 - OSSI means Open Source Social information
 - its a [[OSINT]] tool
 
-first I tried the [[Scrapy]] library but the limitant was to login into facebook. Then I tried the library [[playwright]] but I cannot handle an element to get the picture using the locator method. My las chance is with [[Selenium]] but I donn't wanna try another tool that runs a browser within the api to crawl. Trying again with [[Scrapy]] I give up with that framework to login into facebook. So I get back using [[playwright]] to get access to the account and it works! finally works! (2022-06-29) this is the code:
+first I tried the [Scrapy](/Bibliography/Scrapy.md) library but the limitant was to login into facebook. Then I tried the library [playwright](/Bibliography/playwright.md) but I cannot handle an element to get the picture using the locator method. My las chance is with [[Selenium]] but I donn't wanna try another tool that runs a browser within the api to crawl. Trying again with [Scrapy](/Bibliography/Scrapy.md) I give up with that framework to login into facebook. So I get back using [playwright](/Bibliography/playwright.md) to get access to the account and it works! finally works! (2022-06-29) this is the code:
 ```python
 with sync_playwright() as playwright_api:
 	browser = playwright_api.chromium.launch_persistent_context(
@@ -41,11 +41,11 @@ with sync_playwright() as playwright_api:
 	cookies = browser.cookies(urls=['https://www.facebook.com'])
 ```
 in the journey I learn that [[scrapy carries the responsability of csrf token for you]] I studied the [scrapy architecture](/Extracts/scrapy%20architecture.md) to know if something there gives me a clue to know how to deal with the login to facebook.
-Then when I realize that with [[playwright]] I can get the cookies, it gives me a fresh air about how to deal with the problem
+Then when I realize that with [playwright](/Bibliography/playwright.md) I can get the cookies, it gives me a fresh air about how to deal with the problem
 
 # Libraries
 for this project all the libraries are in the requirements.txt file, but most of them were from the video [Network of The Witcher - Relationship Extraction & Network Analysis with Spacy & NetworkX](/Bibliography/Network%20of%20The%20Witcher%20-%20Relationship%20Extraction%20&%20Network%20Analysis%20with%20Spacy%20&%20NetworkX.md)
-Also its going to use [[Scrapy]] para extraer los datos de las redes sociales
+Also its going to use [Scrapy](/Bibliography/Scrapy.md) para extraer los datos de las redes sociales
 
 # Architecture
 For the architecture of this project its using [Factory Method](/Bibliography/Factory%20Method.md), [Iterator pattern](/Bibliography/Iterator%20pattern.md), [Strategy pattern](/Bibliography/Strategy%20pattern.md)

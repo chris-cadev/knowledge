@@ -10,6 +10,6 @@ author::
 
 ---
 
-# What does [[DMC.micro PRO]]
+# What does [DMC.micro PRO](/Extracts/DMC.micro%20PRO.md)
 - Saves presets
 - Controls other pedals over [[MIDI]]
