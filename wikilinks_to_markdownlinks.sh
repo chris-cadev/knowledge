@@ -15,13 +15,8 @@ replace_wikilink_with_markdownlink() {
         placeholder="$filename"
     fi
 
-    local link_filepath=`find "$root" -type f -name "*$filename.*"`
+    local link_filepath=`find "$root" -type f -name "$filename.*"`
     if [[ -z `echo "$link_filepath"` ]]; then
-        return
-    fi    
-    local files_found_count=`cat <<< $link_filepath | wc -l`
-    if [[ $files_found_count != "1" ]]; then
-        # to many files case
         return
     fi
     
