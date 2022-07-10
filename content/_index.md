@@ -1,20 +1,14 @@
 ---
 title: 🌱README
 tags:
-- zettelkasten
 ---
 
 # Knowledge-base
 Este folder almacena notas relacionadas al conocimiento de Christian Camacho (un poco de mas informacion [🌱Sobre este knowledge-base](/🌱Sobre%20este%20knowledge-base.md))
 
-## Como almacenar conocimiento
-1. Tomar un [Elemento bibliografico](/Extracts/Elemento%20bibliografico.md)
-2. Partirlo en extractos pequeños
-3. (opcional) escribir una nota en el #zettelkasten 
-
-## Como crear contenido original
-Lo siguiente no son checks son opciones para crear contenido
-- Has una nota en el folder de Zettelkasten
-	- Y la organizas en notas atomicas
-- Crea un indice
-- Crea una secuencia
+---
+- [🌱Rainbow triangle](/🌱Rainbow%20triangle.md)
+- [🌱How to install Unity 3D in Ubuntu](/🌱How%20to%20install%20Unity%203D%20in%20Ubuntu.md)
+- [🌱OSSI-V2](/🌱OSSI-V2.md)
+- [🌿How to connect DMC.micro PRO with C4 SYNTH](/🌿How%20to%20connect%20DMC.micro%20PRO%20with%20C4%20SYNTH.md)
+- [knowledge-storage](/knowledge-storage.md)
