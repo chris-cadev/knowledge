@@ -1,6 +1,6 @@
 baseURL = "https://chris-cadev.github.io/knowledge/"
 languageCode = "en-us"
-googleAnalytics = ""
+googleAnalytics = "G-CZFWHLD8EM"
 pygmentsUseClasses = true
 relativeURLs = false
 disablePathToLower = true
