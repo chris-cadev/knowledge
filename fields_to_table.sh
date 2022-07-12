@@ -1,5 +1,16 @@
 #!/bin/bash
 
+value_to_link() {
+    local value=$1
+    local url_regex='(https?|ftp|file)://[-[:alnum:]\+&@#/%?=~_|!:,.;]*[-[:alnum:]\+&@#/%=~_|]'
+    if [[ $value =~ $url_regex ]]; then
+        echo "<a href=\"$value\">$value</a>"
+    else
+        echo $value
+    fi
+    
+}
+
 get_fields() {
     local file=$1
     cat "$file" | grep -oP ".+::.+"
@@ -14,7 +25,7 @@ fields_to_table() {
         local value="`echo $field | awk -F '::' '{print $2}' | xargs`"
         echo "<tr>"
         echo "<td> ${key##*( )} </td>"
-        echo "<td> ${value##*( )} </td>"
+        echo "<td> `value_to_link $value` </td>"
         echo "</tr>"
     done
     echo "</table>"
