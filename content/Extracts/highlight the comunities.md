@@ -5,9 +5,22 @@ tags:
 - tech/vizualization
 ---
 
-type:: #✨extract
-position:: https://youtu.be/kbLFMObmLNQ?t=285
-author:: [[Data J Lab]]
+
+<table>
+<tr>
+<td> type </td>
+<td> #✨extract </td>
+</tr>
+<tr>
+<td> position </td>
+<td> <a href="https://youtu.be/kbLFMObmLNQ?t=285">https://youtu.be/kbLFMObmLNQ?t=285</a> </td>
+</tr>
+<tr>
+<td> author </td>
+<td> [[Data J Lab]] </td>
+</tr>
+</table>
+
 #tech/vizualization
 
 ---

@@ -4,9 +4,18 @@ tags:
 - 🖼️image
 ---
 
-type:: #🖼️image
-position:: 
-author::
+
+<table>
+<tr>
+<td> type </td>
+<td> #🖼️image </td>
+</tr>
+<tr>
+<td> position </td>
+<td>  </td>
+</tr>
+</table>
+
 
 ---
 

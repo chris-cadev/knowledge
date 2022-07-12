@@ -6,10 +6,26 @@ tags:
 - design-patterns/factory
 ---
 
-source:: https://refactoring.guru/design-patterns/factory-method
-type:: #📄article
-author:: [[Refactoring.GURU.]]
-status:: #🚦status/finished
+
+<table>
+<tr>
+<td> source </td>
+<td> <a href="https://refactoring.guru/design-patterns/factory-method">https://refactoring.guru/design-patterns/factory-method</a> </td>
+</tr>
+<tr>
+<td> type </td>
+<td> #📄article </td>
+</tr>
+<tr>
+<td> author </td>
+<td> [[Refactoring.GURU.]] </td>
+</tr>
+<tr>
+<td> status </td>
+<td> #🚦status/finished </td>
+</tr>
+</table>
+
 #design-patterns/factory
 
 ---

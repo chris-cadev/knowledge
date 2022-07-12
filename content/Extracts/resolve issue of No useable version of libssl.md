@@ -6,9 +6,22 @@ tags:
 - os/ubuntu
 ---
 
-type:: #✨extract
-author:: [[AlfieBooth]]
-position:: https://forum.unity.com/threads/workaround-for-libssl-issue-on-ubuntu-22-04.1271405/ at [Workaround for libssl issue on Ubuntu 22.04](/Bibliography/Workaround%20for%20libssl%20issue%20on%20Ubuntu%2022.04.md)
+
+<table>
+<tr>
+<td> type </td>
+<td> #✨extract </td>
+</tr>
+<tr>
+<td> author </td>
+<td> [[AlfieBooth]] </td>
+</tr>
+<tr>
+<td> position </td>
+<td> <a href="https://forum.unity.com/threads/workaround-for-libssl-issue-on-ubuntu-22-04.1271405/ at [Workaround for libssl issue on Ubuntu 22.04](/Bibliography/Workaround%20for%20libssl%20issue%20on%20Ubuntu%2022.04.md)">https://forum.unity.com/threads/workaround-for-libssl-issue-on-ubuntu-22-04.1271405/ at [Workaround for libssl issue on Ubuntu 22.04](/Bibliography/Workaround%20for%20libssl%20issue%20on%20Ubuntu%2022.04.md)</a> </td>
+</tr>
+</table>
+
 #unity #os/ubuntu 
 
 ---

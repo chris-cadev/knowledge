@@ -6,10 +6,26 @@ tags:
 - tech/python
 ---
 
-source:: https://scrapy.org/
-type:: #🌐website
-author:: [[Pablo Hoffman]]
-status:: #🚦status/backlog
+
+<table>
+<tr>
+<td> source </td>
+<td> <a href="https://scrapy.org/">https://scrapy.org/</a> </td>
+</tr>
+<tr>
+<td> type </td>
+<td> #🌐website </td>
+</tr>
+<tr>
+<td> author </td>
+<td> [[Pablo Hoffman]] </td>
+</tr>
+<tr>
+<td> status </td>
+<td> #🚦status/backlog </td>
+</tr>
+</table>
+
 #tech/python 
 
 ---

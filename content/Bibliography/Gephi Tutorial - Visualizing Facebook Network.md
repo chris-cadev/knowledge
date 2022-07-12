@@ -5,10 +5,26 @@ tags:
 - 🚦status/finished
 ---
 
-source:: https://www.youtube.com/watch?v=kbLFMObmLNQ
-type:: #📽️video
-author:: [[Data J Lab]]
-status:: #🚦status/finished
+
+<table>
+<tr>
+<td> source </td>
+<td> <a href="https://www.youtube.com/watch?v=kbLFMObmLNQ">https://www.youtube.com/watch?v=kbLFMObmLNQ</a> </td>
+</tr>
+<tr>
+<td> type </td>
+<td> #📽️video </td>
+</tr>
+<tr>
+<td> author </td>
+<td> [[Data J Lab]] </td>
+</tr>
+<tr>
+<td> status </td>
+<td> #🚦status/finished </td>
+</tr>
+</table>
+
 
 ---
 

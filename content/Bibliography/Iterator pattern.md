@@ -6,10 +6,26 @@ tags:
 - design-patterns/iterator
 ---
 
-source:: https://refactoring.guru/design-patterns/iterator
-type:: #📄article
-author:: [[Refactoring.GURU.]]
-status:: #🚦status/in-progress
+
+<table>
+<tr>
+<td> source </td>
+<td> <a href="https://refactoring.guru/design-patterns/iterator">https://refactoring.guru/design-patterns/iterator</a> </td>
+</tr>
+<tr>
+<td> type </td>
+<td> #📄article </td>
+</tr>
+<tr>
+<td> author </td>
+<td> [[Refactoring.GURU.]] </td>
+</tr>
+<tr>
+<td> status </td>
+<td> #🚦status/in-progress </td>
+</tr>
+</table>
+
 #design-patterns/iterator
 
 ---

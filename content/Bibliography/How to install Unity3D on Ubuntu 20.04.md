@@ -8,10 +8,26 @@ tags:
 - unity
 ---
 
-source:: https://www.youtube.com/watch?v=h-xqyw720ac
-type:: #📽️video
-author:: [[linux made simple]]
-status:: #🚦status/finished
+
+<table>
+<tr>
+<td> source </td>
+<td> <a href="https://www.youtube.com/watch?v=h-xqyw720ac">https://www.youtube.com/watch?v=h-xqyw720ac</a> </td>
+</tr>
+<tr>
+<td> type </td>
+<td> #📽️video </td>
+</tr>
+<tr>
+<td> author </td>
+<td> [[linux made simple]] </td>
+</tr>
+<tr>
+<td> status </td>
+<td> #🚦status/finished </td>
+</tr>
+</table>
+
 #linux #os/ubuntu #unity 
 
 ---

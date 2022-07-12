@@ -4,9 +4,22 @@ tags:
 - ✍️annotation
 ---
 
-type:: #✍️annotation
-position:: 
-author:: [[Christian Camacho]]
+
+<table>
+<tr>
+<td> type </td>
+<td> #✍️annotation </td>
+</tr>
+<tr>
+<td> position </td>
+<td>  </td>
+</tr>
+<tr>
+<td> author </td>
+<td> [[Christian Camacho]] </td>
+</tr>
+</table>
+
 
 ---
 

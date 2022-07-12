@@ -7,9 +7,22 @@ tags:
 - music
 ---
 
-type:: #✍️annotation
-position:: https://youtu.be/VCfWZVmIoTY?t=46
-author:: [[Disaster Area Designs]]
+
+<table>
+<tr>
+<td> type </td>
+<td> #✍️annotation </td>
+</tr>
+<tr>
+<td> position </td>
+<td> <a href="https://youtu.be/VCfWZVmIoTY?t=46">https://youtu.be/VCfWZVmIoTY?t=46</a> </td>
+</tr>
+<tr>
+<td> author </td>
+<td> [[Disaster Area Designs]] </td>
+</tr>
+</table>
+
 #tech/audio  #tech/web #music 
 
 ---

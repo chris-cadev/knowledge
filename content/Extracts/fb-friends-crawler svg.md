@@ -5,9 +5,22 @@ tags:
 - tech/vizualization
 ---
 
-type:: #🖼️image
-position:: https://www.facebook.com/groups/731372100390914/posts/884607038400752/
-author:: [[Christian Camacho]]
+
+<table>
+<tr>
+<td> type </td>
+<td> #🖼️image </td>
+</tr>
+<tr>
+<td> position </td>
+<td> <a href="https://www.facebook.com/groups/731372100390914/posts/884607038400752/">https://www.facebook.com/groups/731372100390914/posts/884607038400752/</a> </td>
+</tr>
+<tr>
+<td> author </td>
+<td> [[Christian Camacho]] </td>
+</tr>
+</table>
+
 #tech/vizualization 
 
 ---

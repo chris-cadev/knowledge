@@ -4,9 +4,22 @@ tags:
 - ✍️annotation
 ---
 
-type:: #✍️annotation
-position:: https://youtu.be/2rV13AhSHgs?t=312
-author:: [[Ruben Loan]]
+
+<table>
+<tr>
+<td> type </td>
+<td> #✍️annotation </td>
+</tr>
+<tr>
+<td> position </td>
+<td> <a href="https://youtu.be/2rV13AhSHgs?t=312">https://youtu.be/2rV13AhSHgs?t=312</a> </td>
+</tr>
+<tr>
+<td> author </td>
+<td> [[Ruben Loan]] </td>
+</tr>
+</table>
+
 
 ---
 

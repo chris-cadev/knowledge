@@ -7,9 +7,22 @@ tags:
 - tech/data-extraction
 ---
 
-type:: #🖼️image
-position:: https://docs.scrapy.org/en/latest/topics/architecture.html
-author:: [[Scrapy developers]]
+
+<table>
+<tr>
+<td> type </td>
+<td> #🖼️image </td>
+</tr>
+<tr>
+<td> position </td>
+<td> <a href="https://docs.scrapy.org/en/latest/topics/architecture.html">https://docs.scrapy.org/en/latest/topics/architecture.html</a> </td>
+</tr>
+<tr>
+<td> author </td>
+<td> [[Scrapy developers]] </td>
+</tr>
+</table>
+
 #tech/python #tech/architecture #tech/data-extraction 
 
 ---

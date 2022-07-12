@@ -5,9 +5,22 @@ tags:
 - unity
 ---
 
-type:: #✍️annotation
-author:: [[]]
-position:: https://forum.unity.com/threads/no-editor-installed.893605/#post-5872465 at [[Unity Forum - No Editor Installed]]
+
+<table>
+<tr>
+<td> type </td>
+<td> #✍️annotation </td>
+</tr>
+<tr>
+<td> author </td>
+<td> [[]] </td>
+</tr>
+<tr>
+<td> position </td>
+<td> <a href="https://forum.unity.com/threads/no-editor-installed.893605/#post-5872465 at [[Unity Forum - No Editor Installed]]">https://forum.unity.com/threads/no-editor-installed.893605/#post-5872465 at [[Unity Forum - No Editor Installed]]</a> </td>
+</tr>
+</table>
+
 #unity 
 
 ---

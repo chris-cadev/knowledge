@@ -6,9 +6,22 @@ tags:
 - tech/nodejs
 ---
 
-type:: #✨extract
-author:: [[nvm.sh]]
-position:: https://github.com/nvm-sh/nvm#install--update-script
+
+<table>
+<tr>
+<td> type </td>
+<td> #✨extract </td>
+</tr>
+<tr>
+<td> author </td>
+<td> [[nvm.sh]] </td>
+</tr>
+<tr>
+<td> position </td>
+<td> <a href="https://github.com/nvm-sh/nvm#install--update-script">https://github.com/nvm-sh/nvm#install--update-script</a> </td>
+</tr>
+</table>
+
 #tech/bash #tech/nodejs 
 
 ---

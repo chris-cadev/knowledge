@@ -4,9 +4,22 @@ tags:
 - ✨extract
 ---
 
-type:: #✨extract
-position:: subheadings in [[Scrapy docs]]
-author:: [[Scrapy developers]]
+
+<table>
+<tr>
+<td> type </td>
+<td> #✨extract </td>
+</tr>
+<tr>
+<td> position </td>
+<td> subheadings in [[Scrapy docs]] </td>
+</tr>
+<tr>
+<td> author </td>
+<td> [[Scrapy developers]] </td>
+</tr>
+</table>
+
 
 ---
 

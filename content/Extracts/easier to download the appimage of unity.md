@@ -6,9 +6,22 @@ tags:
 - os/ubuntu
 ---
 
-type:: #✍️annotation
-author:: [[]]
-position:: https://youtu.be/h-xqyw720ac?t=31 at [How to install Unity3D on Ubuntu 20.04](/Bibliography/How%20to%20install%20Unity3D%20on%20Ubuntu%2020.04.md)
+
+<table>
+<tr>
+<td> type </td>
+<td> #✍️annotation </td>
+</tr>
+<tr>
+<td> author </td>
+<td> [[]] </td>
+</tr>
+<tr>
+<td> position </td>
+<td> <a href="https://youtu.be/h-xqyw720ac?t=31 at [How to install Unity3D on Ubuntu 20.04](/Bibliography/How%20to%20install%20Unity3D%20on%20Ubuntu%2020.04.md)">https://youtu.be/h-xqyw720ac?t=31 at [How to install Unity3D on Ubuntu 20.04](/Bibliography/How%20to%20install%20Unity3D%20on%20Ubuntu%2020.04.md)</a> </td>
+</tr>
+</table>
+
 #unity #os/ubuntu  
 
 ---

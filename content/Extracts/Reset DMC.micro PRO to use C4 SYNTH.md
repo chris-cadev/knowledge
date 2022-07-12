@@ -4,9 +4,22 @@ tags:
 - ✨extract
 ---
 
-type:: #✨extract
-position:: https://youtu.be/WBlSE6a7ecw?t=65
-author:: [[Disaster Area Designs]]
+
+<table>
+<tr>
+<td> type </td>
+<td> #✨extract </td>
+</tr>
+<tr>
+<td> position </td>
+<td> <a href="https://youtu.be/WBlSE6a7ecw?t=65">https://youtu.be/WBlSE6a7ecw?t=65</a> </td>
+</tr>
+<tr>
+<td> author </td>
+<td> [[Disaster Area Designs]] </td>
+</tr>
+</table>
+
 
 ---
 

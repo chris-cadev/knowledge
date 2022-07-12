@@ -4,9 +4,22 @@ tags:
 - ✍️annotation
 ---
 
-type:: #✍️annotation
-position:: at the end
-author:: 
+
+<table>
+<tr>
+<td> type </td>
+<td> #✍️annotation </td>
+</tr>
+<tr>
+<td> position </td>
+<td> at the end </td>
+</tr>
+<tr>
+<td> author </td>
+<td>  </td>
+</tr>
+</table>
+
 
 ---
 

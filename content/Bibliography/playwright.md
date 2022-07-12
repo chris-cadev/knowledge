@@ -8,10 +8,26 @@ tags:
 - tech/nodejs
 ---
 
-source:: https://playwright.dev/
-type:: #🌐website
-author:: [[Microsoft]]
-status:: #🚦status/in-progress
+
+<table>
+<tr>
+<td> source </td>
+<td> <a href="https://playwright.dev/">https://playwright.dev/</a> </td>
+</tr>
+<tr>
+<td> type </td>
+<td> #🌐website </td>
+</tr>
+<tr>
+<td> author </td>
+<td> [[Microsoft]] </td>
+</tr>
+<tr>
+<td> status </td>
+<td> #🚦status/in-progress </td>
+</tr>
+</table>
+
 #tech/testing #tech/python #tech/nodejs
 
 ---

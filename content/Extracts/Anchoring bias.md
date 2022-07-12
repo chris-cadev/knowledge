@@ -5,9 +5,22 @@ tags:
 - bias
 ---
 
-type:: #✨extract
-position:: 18
-author:: [[Carly Hallman]]
+
+<table>
+<tr>
+<td> type </td>
+<td> #✨extract </td>
+</tr>
+<tr>
+<td> position </td>
+<td> 18 </td>
+</tr>
+<tr>
+<td> author </td>
+<td> [[Carly Hallman]] </td>
+</tr>
+</table>
+
 #bias
 
 ---
