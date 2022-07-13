@@ -34,7 +34,5 @@ tags:
 
 ## Extracts
 
-- [add a unity editor](/Extracts/add%20a%20unity%20editor.md
-content/.Extracts/add%20a%20unity%20editor.md)
-- [steps to add a unity editor](/Extracts/steps%20to%20add%20a%20unity%20editor.md
-content/.Extracts/steps%20to%20add%20a%20unity%20editor.md)
+- [add a unity editor](/Extracts/add%20a%20unity%20editor.md)
+- [steps to add a unity editor](/Extracts/steps%20to%20add%20a%20unity%20editor.md)

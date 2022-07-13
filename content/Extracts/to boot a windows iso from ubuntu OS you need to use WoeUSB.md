@@ -25,5 +25,4 @@ tags:
 
 # to boot a windows iso from ubuntu OS you need to use WoeUSB
 
-[WoeUSB installation on ubuntu](/Extracts/WoeUSB%20installation%20on%20ubuntu.md
-content/.Extracts/WoeUSB%20installation%20on%20ubuntu.md)
+[WoeUSB installation on ubuntu](/Extracts/WoeUSB%20installation%20on%20ubuntu.md)

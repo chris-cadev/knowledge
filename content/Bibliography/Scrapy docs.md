@@ -34,8 +34,6 @@ tags:
 # Scrapy docs
 
 ## Extracts
-- [scrapy architecture](/Extracts/scrapy%20architecture.md
-content/.Extracts/scrapy%20architecture.md)
-- [scrapy data flow](/Extracts/scrapy%20data%20flow.md
-content/.Extracts/scrapy%20data%20flow.md)
+- [scrapy architecture](/Extracts/scrapy%20architecture.md)
+- [scrapy data flow](/Extracts/scrapy%20data%20flow.md)
 - 

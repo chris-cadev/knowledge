@@ -35,5 +35,4 @@ tags:
 
 ## Extracts
 
-- [install dotnet for ubuntu](/Extracts/install%20dotnet%20for%20ubuntu.md
-content/.Extracts/install%20dotnet%20for%20ubuntu.md)
+- [install dotnet for ubuntu](/Extracts/install%20dotnet%20for%20ubuntu.md)

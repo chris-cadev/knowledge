@@ -33,5 +33,4 @@ tags:
 # Factory Method
 
 ## Extracts
-- [Factory Method Intent](/Extracts/Factory%20Method%20Intent.md
-content/.Extracts/Factory%20Method%20Intent.md)
+- [Factory Method Intent](/Extracts/Factory%20Method%20Intent.md)

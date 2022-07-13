@@ -34,5 +34,4 @@ tags:
 
 ## Extracts
 
-- [how to install nvm](/Extracts/how%20to%20install%20nvm.md
-content/.Extracts/how%20to%20install%20nvm.md)
+- [how to install nvm](/Extracts/how%20to%20install%20nvm.md)

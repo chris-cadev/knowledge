@@ -35,7 +35,5 @@ tags:
 # Design patterns - Strategy
 
 ## Extracts
-- [strategy pattern graph](/Extracts/strategy%20pattern%20graph.md
-content/.Extracts/strategy%20pattern%20graph.md)
-- [Strategy pseudocode](/Extracts/Strategy%20pseudocode.md
-content/.Extracts/Strategy%20pseudocode.md)
+- [strategy pattern graph](/Extracts/strategy%20pattern%20graph.md)
+- [Strategy pseudocode](/Extracts/Strategy%20pseudocode.md)

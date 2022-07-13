@@ -5,8 +5,7 @@ tags:
 ---
 
 ## Como almacenar conocimiento
-1. Tomar un [Elemento bibliografico](/Extracts/Elemento%20bibliografico.md
-content/.Extracts/Elemento%20bibliografico.md)
+1. Tomar un [Elemento bibliografico](/Extracts/Elemento%20bibliografico.md)
 2. Partirlo en extractos pequeños
 3. (opcional) escribir una nota en el #zettelkasten 
 

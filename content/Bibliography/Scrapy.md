@@ -33,6 +33,5 @@ tags:
 # Scrapy
 
 ## Extracts
-- [scrapy is a website data extractor](/Extracts/scrapy%20is%20a%20website%20data%20extractor.md
-content/.Extracts/scrapy%20is%20a%20website%20data%20extractor.md)
+- [scrapy is a website data extractor](/Extracts/scrapy%20is%20a%20website%20data%20extractor.md)
 - 

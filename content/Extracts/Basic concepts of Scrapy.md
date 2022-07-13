@@ -24,8 +24,7 @@ tags:
 ---
 
 # Basic concepts of Scrapy
-- [scrapy architecture](/Extracts/scrapy%20architecture.md
-content/.Extracts/scrapy%20architecture.md)
+- [scrapy architecture](/Extracts/scrapy%20architecture.md)
 - scheduler
 - downloader
 - spiders

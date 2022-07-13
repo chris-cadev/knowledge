@@ -31,9 +31,6 @@ tags:
 # Strategy pattern
 
 ## Extracts
-- [Strategy pattern intent](/Extracts/Strategy%20pattern%20intent.md
-content/.Extracts/Strategy%20pattern%20intent.md)
-- [strategy pattern graph](/Extracts/strategy%20pattern%20graph.md
-content/.Extracts/strategy%20pattern%20graph.md)
-- [Strategy pseudocode](/Extracts/Strategy%20pseudocode.md
-content/.Extracts/Strategy%20pseudocode.md)
+- [Strategy pattern intent](/Extracts/Strategy%20pattern%20intent.md)
+- [strategy pattern graph](/Extracts/strategy%20pattern%20graph.md)
+- [Strategy pseudocode](/Extracts/Strategy%20pseudocode.md)

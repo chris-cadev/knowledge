@@ -35,8 +35,6 @@ tags:
 # Network of The Witcher - Relationship Extraction & Network Analysis with [[Spacy]] & [[NetworkX]]
 
 ## Extracts
-- [way to create graph vizualization](/Extracts/way%20to%20create%20graph%20vizualization.md
-content/.Extracts/way%20to%20create%20graph%20vizualization.md)
-- [code to reverse columns in relation ships](/Extracts/code%20to%20reverse%20columns%20in%20relation%20ships.md
-content/.Extracts/code%20to%20reverse%20columns%20in%20relation%20ships.md)
+- [way to create graph vizualization](/Extracts/way%20to%20create%20graph%20vizualization.md)
+- [code to reverse columns in relation ships](/Extracts/code%20to%20reverse%20columns%20in%20relation%20ships.md)
 - [[generate the weight of each relationship]]

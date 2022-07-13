@@ -32,7 +32,5 @@ tags:
 
 ## Extracts
 
-- [WoeUSB installation on ubuntu](/Extracts/WoeUSB%20installation%20on%20ubuntu.md
-content/.Extracts/WoeUSB%20installation%20on%20ubuntu.md)
-- [to boot a windows iso from ubuntu OS you need to use WoeUSB](/Extracts/to%20boot%20a%20windows%20iso%20from%20ubuntu%20OS%20you%20need%20to%20use%20WoeUSB.md
-content/.Extracts/to%20boot%20a%20windows%20iso%20from%20ubuntu%20OS%20you%20need%20to%20use%20WoeUSB.md)
+- [WoeUSB installation on ubuntu](/Extracts/WoeUSB%20installation%20on%20ubuntu.md)
+- [to boot a windows iso from ubuntu OS you need to use WoeUSB](/Extracts/to%20boot%20a%20windows%20iso%20from%20ubuntu%20OS%20you%20need%20to%20use%20WoeUSB.md)
