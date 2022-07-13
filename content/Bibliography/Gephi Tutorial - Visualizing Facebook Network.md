@@ -31,6 +31,9 @@ tags:
 # Gephi Tutorial - Visualizing Facebook Network
 
 ## Extracts
-- [[use netvizz to download your facebook relationships]]
-- [generate a vizualization of your facebook friends](/Extracts/generate%20a%20vizualization%20of%20your%20facebook%20friends.md)
-- [highlight the comunities](/Extracts/highlight%20the%20comunities.md)
+- [use netvizz to download your facebook relationships](/Extracts/use%20netvizz%20to%20download%20your%20facebook%20relationships.md
+content/.Extracts/use%20netvizz%20to%20download%20your%20facebook%20relationships.md)
+- [generate a vizualization of your facebook friends](/Extracts/generate%20a%20vizualization%20of%20your%20facebook%20friends.md
+content/.Extracts/generate%20a%20vizualization%20of%20your%20facebook%20friends.md)
+- [highlight the comunities](/Extracts/highlight%20the%20comunities.md
+content/.Extracts/highlight%20the%20comunities.md)

@@ -35,4 +35,5 @@ tags:
 # playwright
 
 ## Extracts
-- [trying to get an image url from facebook with playwright](/Extracts/trying%20to%20get%20an%20image%20url%20from%20facebook%20with%20playwright.md)
+- [trying to get an image url from facebook with playwright](/Extracts/trying%20to%20get%20an%20image%20url%20from%20facebook%20with%20playwright.md
+content/.Extracts/trying%20to%20get%20an%20image%20url%20from%20facebook%20with%20playwright.md)

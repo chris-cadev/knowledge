@@ -18,7 +18,7 @@ tags:
 </tr>
 <tr>
 <td> author </td>
-<td> [[Refactoring.GURU.]] </td>
+<td> [Refactoring.GURU.](/Authors/Refactoring.GURU..md) </td>
 </tr>
 <tr>
 <td> status </td>
@@ -33,4 +33,5 @@ tags:
 # Factory Method
 
 ## Extracts
-- [[Factory Method Intent]]
+- [Factory Method Intent](/Extracts/Factory%20Method%20Intent.md
+content/.Extracts/Factory%20Method%20Intent.md)

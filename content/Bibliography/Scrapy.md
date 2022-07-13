@@ -18,7 +18,7 @@ tags:
 </tr>
 <tr>
 <td> author </td>
-<td> [[Pablo Hoffman]] </td>
+<td> [Pablo Hoffman](/Authors/Pablo%20Hoffman.md) </td>
 </tr>
 <tr>
 <td> status </td>
@@ -33,5 +33,6 @@ tags:
 # Scrapy
 
 ## Extracts
-- [[scrapy is a website data extractor]]
+- [scrapy is a website data extractor](/Extracts/scrapy%20is%20a%20website%20data%20extractor.md
+content/.Extracts/scrapy%20is%20a%20website%20data%20extractor.md)
 - 
