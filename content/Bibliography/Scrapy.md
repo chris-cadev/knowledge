@@ -6,26 +6,6 @@ tags:
 - tech/python
 ---
 
-
-<table>
-<tr>
-<td> source </td>
-<td> <a href="https://scrapy.org/">https://scrapy.org/</a> </td>
-</tr>
-<tr>
-<td> type </td>
-<td> #🌐website </td>
-</tr>
-<tr>
-<td> author </td>
-<td> [Pablo Hoffman](/Authors/Pablo%20Hoffman.md) </td>
-</tr>
-<tr>
-<td> status </td>
-<td> #🚦status/backlog </td>
-</tr>
-</table>
-
 #tech/python 
 
 ---
@@ -35,3 +15,9 @@ tags:
 ## Extracts
 - [scrapy is a website data extractor](/Extracts/scrapy%20is%20a%20website%20data%20extractor.md)
 - 
+## References
+
+### source
+> https://scrapy.org/
+### author
+> [Pablo Hoffman](/Authors/Pablo%20Hoffman.md)

@@ -6,22 +6,6 @@ tags:
 - tech/vizualization
 ---
 
-
-<table>
-<tr>
-<td> type </td>
-<td> #✍️annotation </td>
-</tr>
-<tr>
-<td> position </td>
-<td> <a href="https://youtu.be/kbLFMObmLNQ?t=129">https://youtu.be/kbLFMObmLNQ?t=129</a> </td>
-</tr>
-<tr>
-<td> author </td>
-<td>  </td>
-</tr>
-</table>
-
 #tech/graph #tech/vizualization 
 
 ---
@@ -35,3 +19,9 @@ tags:
 	1. (optional) add a filter of `Degree range` to remove the friends with out a friend in common or something like that
 6. To export the image first to press `Preview` and `Refresh`
 7. Then `file` -> `export` -> `SVG/PDF/PNG file...`
+## References
+
+### position
+> https://youtu.be/kbLFMObmLNQ?t=129
+### author
+> 

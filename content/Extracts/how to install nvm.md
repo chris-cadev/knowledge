@@ -6,22 +6,6 @@ tags:
 - tech/nodejs
 ---
 
-
-<table>
-<tr>
-<td> type </td>
-<td> #✨extract </td>
-</tr>
-<tr>
-<td> author </td>
-<td> [[nvm.sh]] </td>
-</tr>
-<tr>
-<td> position </td>
-<td> <a href="https://github.com/nvm-sh/nvm#install--update-script">https://github.com/nvm-sh/nvm#install--update-script</a> </td>
-</tr>
-</table>
-
 #tech/bash #tech/nodejs 
 
 ---
@@ -31,3 +15,9 @@ tags:
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 ```
+## References
+
+### author
+> [[nvm.sh]]
+### position
+> https://github.com/nvm-sh/nvm#install--update-script

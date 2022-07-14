@@ -7,22 +7,6 @@ tags:
 - design-patterns
 ---
 
-
-<table>
-<tr>
-<td> type </td>
-<td> #✨extract </td>
-</tr>
-<tr>
-<td> position </td>
-<td> [Design patterns - Strategy](/Bibliography/Design%20patterns%20-%20Strategy.md) Pseudocode heading </td>
-</tr>
-<tr>
-<td> author </td>
-<td> [Refactoring.GURU.](/Authors/Refactoring.GURU..md) </td>
-</tr>
-</table>
-
 #tech/architecture #tech/programming #design-patterns
 
 ---
@@ -95,3 +79,9 @@ class ExampleApplication is
 
         Print result.
 ```
+## References
+
+### position
+> [Design patterns - Strategy](/Bibliography/Design%20patterns%20-%20Strategy.md) Pseudocode heading
+### author
+> [Refactoring.GURU.](/Authors/Refactoring.GURU..md)

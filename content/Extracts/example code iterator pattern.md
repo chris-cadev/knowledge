@@ -5,22 +5,6 @@ tags:
 ---
 
 
-<table>
-<tr>
-<td> type </td>
-<td> #✨extract </td>
-</tr>
-<tr>
-<td> position </td>
-<td> <a href="https://www.youtube.com/watch?v=uNTNEfwYXhI&t=5588s">https://www.youtube.com/watch?v=uNTNEfwYXhI&t=5588s</a> </td>
-</tr>
-<tr>
-<td> author </td>
-<td> [Christopher Okhravi](/Authors/Christopher%20Okhravi.md) </td>
-</tr>
-</table>
-
-
 ---
 
 # example code iterator pattern
@@ -33,3 +17,9 @@ while(!iter.isDone()) {
 	iter.next();
 }
 ```
+## References
+
+### position
+> https://www.youtube.com/watch?v=uNTNEfwYXhI&t=5588s
+### author
+> [Christopher Okhravi](/Authors/Christopher%20Okhravi.md)

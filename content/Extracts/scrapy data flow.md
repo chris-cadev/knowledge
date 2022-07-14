@@ -5,22 +5,6 @@ tags:
 ---
 
 
-<table>
-<tr>
-<td> type </td>
-<td> #✨extract </td>
-</tr>
-<tr>
-<td> position </td>
-<td> <a href="https://docs.scrapy.org/en/latest/topics/architecture.html#data-flow">https://docs.scrapy.org/en/latest/topics/architecture.html#data-flow</a> </td>
-</tr>
-<tr>
-<td> author </td>
-<td> [[Scrapy developers]] </td>
-</tr>
-</table>
-
-
 ---
 
 # scrapy data flow
@@ -35,3 +19,9 @@ The data flow in Scrapy is controlled by the execution engine, and goes like thi
 7.  The [Spider](https://docs.scrapy.org/en/latest/topics/architecture.html#component-spiders) processes the Response and returns scraped items and new Requests (to follow) to the [Engine](https://docs.scrapy.org/en/latest/topics/architecture.html#component-engine), passing through the [Spider Middleware](https://docs.scrapy.org/en/latest/topics/architecture.html#component-spider-middleware) (see [`process_spider_output()`](https://docs.scrapy.org/en/latest/topics/spider-middleware.html#scrapy.spidermiddlewares.SpiderMiddleware.process_spider_output "scrapy.spidermiddlewares.SpiderMiddleware.process_spider_output")).    
 8.  The [Engine](https://docs.scrapy.org/en/latest/topics/architecture.html#component-engine) sends processed items to [Item Pipelines](https://docs.scrapy.org/en/latest/topics/architecture.html#component-pipelines), then send processed Requests to the [Scheduler](https://docs.scrapy.org/en/latest/topics/architecture.html#component-scheduler) and asks for possible next Requests to crawl.    
 9.  The process repeats (from step 3) until there are no more requests from the [Scheduler](https://docs.scrapy.org/en/latest/topics/architecture.html#component-scheduler).
+## References
+
+### position
+> https://docs.scrapy.org/en/latest/topics/architecture.html#data-flow
+### author
+> [[Scrapy developers]]

@@ -5,22 +5,6 @@ tags:
 ---
 
 
-<table>
-<tr>
-<td> type </td>
-<td> #✍️annotation </td>
-</tr>
-<tr>
-<td> position </td>
-<td>  </td>
-</tr>
-<tr>
-<td> author </td>
-<td> [[Christian Camacho]] </td>
-</tr>
-</table>
-
-
 ---
 
 # trying to get an image url from facebook with playwright
@@ -49,3 +33,9 @@ with sync_playwright() as p:
             print(f'profile image: {profile_image}')
             wait()
 ```
+## References
+
+### position
+> 
+### author
+> [[Christian Camacho]]

@@ -6,22 +6,6 @@ tags:
 - os/ubuntu
 ---
 
-
-<table>
-<tr>
-<td> type </td>
-<td> #✨extract </td>
-</tr>
-<tr>
-<td> author </td>
-<td> [[mikenizo808]] </td>
-</tr>
-<tr>
-<td> position </td>
-<td> <a href="https://github.com/mikenizo808/Quick-Setup-for-Unity3D-on-Ubuntu-20.04-LTS#install-net at [ubuntu-unity quick setup](/Bibliography/ubuntu-unity%20quick%20setup.md)">https://github.com/mikenizo808/Quick-Setup-for-Unity3D-on-Ubuntu-20.04-LTS#install-net at [ubuntu-unity quick setup](/Bibliography/ubuntu-unity%20quick%20setup.md)</a> </td>
-</tr>
-</table>
-
 #unity #os/ubuntu 
 
 ---
@@ -47,3 +31,9 @@ sudo apt-get install -y dotnet-sdk-6.0
 #confirm it works
 dotnet
 ```
+## References
+
+### author
+> [[mikenizo808]]
+### position
+> https://github.com/mikenizo808/Quick-Setup-for-Unity3D-on-Ubuntu-20.04-LTS#install-net at [ubuntu-unity quick setup](/Bibliography/ubuntu-unity%20quick%20setup.md)
