@@ -1,4 +1,4 @@
-{{$trimmed := strings.TrimSuffix ".md" (.Destination | safeURL)}}
+{{$trimmed := .Destination | safeURL}}
 {{$dashedurl := replace $trimmed "%20" "-" }}
 {{$external := strings.HasPrefix $dashedurl "http" }}
 {{- if $external -}}
