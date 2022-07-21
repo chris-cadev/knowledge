@@ -9,12 +9,12 @@ get_ignored_files() {
     for item in `cat "$current_directory/config.toml" | grep "ignoreFiles" | cut -d"=" -f2 | grep -oP "(?<=\")[^\"]+"`; do
         if [[ "$item" != *","* && "$item" != *"]"* ]]; then
             echo "$item"
-        fi        
+        fi
     done
     unset IFS
 }
 
-remove_ignored_files() {    
+remove_ignored_files() {
     IFS=$'\n'
     for ignored_file in `get_ignored_files`; do
         local directory=$(dirname "$current_directory$ignored_file")
@@ -31,5 +31,5 @@ remove_ignored_files() {
     unset IFS
 }
 
-rsync -r -progress files/Zettelkasten/* content
+rsync -r -progress "$sync_folder/*" content
 remove_ignored_files
