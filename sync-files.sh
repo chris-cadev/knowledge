@@ -31,5 +31,5 @@ remove_ignored_files() {
     unset IFS
 }
 
-rsync -r -progress "$sync_folder/*" content
+rsync -r -progress $sync_folder/* content
 remove_ignored_files
