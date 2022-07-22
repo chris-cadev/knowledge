@@ -1,5 +1,5 @@
 ---
-title: ubuntu-unity quick setup
+title: ubuntu x unity quick setup
 tags:
 - 📄article
 - 🚦status/in-progress
