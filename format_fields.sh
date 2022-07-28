@@ -21,8 +21,8 @@ format_fields() {
     echo "## References"
     echo ""
     for field in `get_fields "$file"`; do
-        local key="`echo $field | awk -F '::' '{print $1}' | xargs`"
-        local value="`echo $field | awk -F '::' '{print $2}' | xargs`"
+        local key="`echo $field | awk -F '::' '{print $1}' | xargs -0`"
+        local value="`echo $field | awk -F '::' '{print $2}' | xargs -0`"
         if [[ $key == 'status' || $key == 'type' ]]; then
             continue
         fi
