@@ -12,6 +12,6 @@ because of the inventory (see -> [example code iterator pattern](/Extracts/examp
 ## References
 
 ### position
-> https://youtu.be/uNTNEfwYXhI?t=5764
+>  https://youtu.be/uNTNEfwYXhI?t=5764
 ### author
-> [Christopher Okhravi](/Authors/Christopher%20Okhravi.md)
+>  [Christopher Okhravi](/Authors/Christopher%20Okhravi.md)

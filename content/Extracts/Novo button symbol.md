@@ -16,6 +16,6 @@ tags:
 ## References
 
 ### author
-> [[Lenovo]]
+>  [[Lenovo]]
 ### position
-> start of [Introducción al botón NOVO - ideapad](/Bibliography/Introducción%20al%20botón%20NOVO%20-%20ideapad.md)
+>  start of [Introducción al botón NOVO - ideapad](/Bibliography/Introducción%20al%20botón%20NOVO%20-%20ideapad.md)

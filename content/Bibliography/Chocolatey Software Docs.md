@@ -16,6 +16,6 @@ tags:
 ## References
 
 ### source
-> https://docs.chocolatey.org/en-us/choco/setup
+>  https://docs.chocolatey.org/en-us/choco/setup
 ### author
-> [[chocolatey devs]]
+>  [[chocolatey devs]]

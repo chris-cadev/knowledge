@@ -19,6 +19,6 @@ tags:
 ## References
 
 ### source
-> https://support.lenovo.com/us/es/solutions/ht062552
+>  https://support.lenovo.com/us/es/solutions/ht062552
 ### author
-> [[Lenovo]]
+>  [[Lenovo]]

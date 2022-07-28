@@ -18,6 +18,6 @@ tags:
 ## References
 
 ### source
-> https://github.com/nvm-sh/nvm#installing-and-updating
+>  https://github.com/nvm-sh/nvm#installing-and-updating
 ### author
-> [[nvm.sh]]
+>  [[nvm.sh]]

@@ -20,6 +20,6 @@ tags:
 ## References
 
 ### source
-> https://www.youtube.com/watch?v=h-xqyw720ac
+>  https://www.youtube.com/watch?v=h-xqyw720ac
 ### author
-> [[linux made simple]]
+>  [[linux made simple]]

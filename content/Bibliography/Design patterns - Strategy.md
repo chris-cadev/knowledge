@@ -20,6 +20,6 @@ tags:
 ## References
 
 ### source
-> https://refactoring.guru/design-patterns/strategy
+>  https://refactoring.guru/design-patterns/strategy
 ### author
-> [Refactoring.GURU.](/Authors/Refactoring.GURU..md)
+>  [Refactoring.GURU.](/Authors/Refactoring.GURU..md)

@@ -82,6 +82,6 @@ class ExampleApplication is
 ## References
 
 ### position
-> [Design patterns - Strategy](/Bibliography/Design%20patterns%20-%20Strategy.md) Pseudocode heading
+>  [Design patterns - Strategy](/Bibliography/Design%20patterns%20-%20Strategy.md) Pseudocode heading
 ### author
-> [Refactoring.GURU.](/Authors/Refactoring.GURU..md)
+>  [Refactoring.GURU.](/Authors/Refactoring.GURU..md)

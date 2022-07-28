@@ -16,6 +16,6 @@ tags:
 ## References
 
 ### position
-> https://refactoring.guru/design-patterns/strategy 1st paragraph
+>  https://refactoring.guru/design-patterns/strategy 1st paragraph
 ### author
-> [Refactoring.GURU.](/Authors/Refactoring.GURU..md)
+>  [Refactoring.GURU.](/Authors/Refactoring.GURU..md)

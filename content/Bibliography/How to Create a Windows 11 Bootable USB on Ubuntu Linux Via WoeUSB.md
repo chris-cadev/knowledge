@@ -17,6 +17,6 @@ tags:
 ## References
 
 ### source
-> https://techschumz.com/create-a-windows-11-bootable-usb-on-ubuntu-linux-via-woeusb/
+>  https://techschumz.com/create-a-windows-11-bootable-usb-on-ubuntu-linux-via-woeusb/
 ### author
-> [[techschumz]]
+>  [[techschumz]]

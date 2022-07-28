@@ -17,6 +17,6 @@ tags:
 ## References
 
 ### source
-> https://cointelegraph.com/blockchain-for-beginners/a-beginners-guide-to-understanding-the-layers-of-blockchain-technology
+>  https://cointelegraph.com/blockchain-for-beginners/a-beginners-guide-to-understanding-the-layers-of-blockchain-technology
 ### author
-> [cointelegraph](/Authors/cointelegraph.md)
+>  [cointelegraph](/Authors/cointelegraph.md)

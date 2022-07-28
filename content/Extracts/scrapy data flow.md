@@ -22,6 +22,6 @@ The data flow in Scrapy is controlled by the execution engine, and goes like thi
 ## References
 
 ### position
-> https://docs.scrapy.org/en/latest/topics/architecture.html#data-flow
+>  https://docs.scrapy.org/en/latest/topics/architecture.html#data-flow
 ### author
-> [[Scrapy developers]]
+>  [[Scrapy developers]]

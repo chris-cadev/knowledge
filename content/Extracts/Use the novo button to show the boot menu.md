@@ -14,6 +14,6 @@ tags:
 ## References
 
 ### author
-> [Amy](/Authors/Amy.md)
+>  [Amy](/Authors/Amy.md)
 ### position
-> Case 1: Use the Novo Button at [How to Enter Lenovo Boot Menu](/Bibliography/How%20to%20Enter%20Lenovo%20Boot%20Menu.md)
+>  Case 1: Use the Novo Button at [How to Enter Lenovo Boot Menu](/Bibliography/How%20to%20Enter%20Lenovo%20Boot%20Menu.md)

@@ -19,6 +19,6 @@ tags:
 ## References
 
 ### source
-> https://manpages.ubuntu.com/manpages/xenial/man1/scanimage.1.html#name
+>  https://manpages.ubuntu.com/manpages/xenial/man1/scanimage.1.html#name
 ### author
-> [[Ubuntu Manuals]]
+>  [[Ubuntu Manuals]]

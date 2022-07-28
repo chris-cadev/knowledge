@@ -19,6 +19,6 @@ tags:
 ## References
 
 ### source
-> https://forum.unity.com/threads/workaround-for-libssl-issue-on-ubuntu-22-04.1271405/
+>  https://forum.unity.com/threads/workaround-for-libssl-issue-on-ubuntu-22-04.1271405/
 ### author
-> [[AlfieBooth]]
+>  [[AlfieBooth]]

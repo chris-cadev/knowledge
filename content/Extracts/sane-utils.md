@@ -19,6 +19,6 @@ sudo apt install sane-utils
 ## References
 
 ### author
-> [[Ubuntu manuals]]
+>  [[Ubuntu manuals]]
 ### position
-> providers in [scanimage](/Bibliography/scanimage.md)
+>  providers in [scanimage](/Bibliography/scanimage.md)

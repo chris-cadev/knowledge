@@ -19,6 +19,6 @@ sudo apt install mono-devel -y
 ## References
 
 ### author
-> [[mikenizo808]]
+>  [[mikenizo808]]
 ### position
-> https://github.com/mikenizo808/Quick-Setup-for-Unity3D-on-Ubuntu-20.04-LTS#required---install-mono-devel at [ubuntu x unity quick setup](/Bibliography/ubuntu%20x%20unity%20quick%20setup.md)
+>  https://github.com/mikenizo808/Quick-Setup-for-Unity3D-on-Ubuntu-20.04-LTS#required---install-mono-devel at [ubuntu x unity quick setup](/Bibliography/ubuntu%20x%20unity%20quick%20setup.md)

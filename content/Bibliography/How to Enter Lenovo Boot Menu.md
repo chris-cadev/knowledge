@@ -17,6 +17,6 @@ tags:
 ## References
 
 ### source
-> https://www.minitool.com/partition-disk/lenovo-boot-menu.html
+>  https://www.minitool.com/partition-disk/lenovo-boot-menu.html
 ### author
-> [Amy](/Authors/Amy.md)
+>  [Amy](/Authors/Amy.md)

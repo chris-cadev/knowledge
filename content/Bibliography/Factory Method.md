@@ -17,6 +17,6 @@ tags:
 ## References
 
 ### source
-> https://refactoring.guru/design-patterns/factory-method
+>  https://refactoring.guru/design-patterns/factory-method
 ### author
-> [Refactoring.GURU.](/Authors/Refactoring.GURU..md)
+>  [Refactoring.GURU.](/Authors/Refactoring.GURU..md)

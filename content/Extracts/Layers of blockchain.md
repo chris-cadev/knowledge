@@ -18,6 +18,6 @@ tags:
 ## References
 
 ### author
-> [cointelegraph](/Authors/cointelegraph.md)
+>  [cointelegraph](/Authors/cointelegraph.md)
 ### position
-> Blockchain layers explained at [[A
+>  Blockchain layers explained at [A beginner's guide to understanding the layers of blockchain technology](/Bibliography/A%20beginner's%20guide%20to%20understanding%20the%20layers%20of%20blockchain%20technology.md)

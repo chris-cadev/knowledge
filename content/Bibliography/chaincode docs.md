@@ -18,6 +18,6 @@ tags:
 ## References
 
 ### source
-> https://hyperledger-fabric.readthedocs.io/en/release-1.3/index.html
+>  https://hyperledger-fabric.readthedocs.io/en/release-1.3/index.html
 ### author
-> [hyperledger](/Authors/hyperledger.md)
+>  [hyperledger](/Authors/hyperledger.md)

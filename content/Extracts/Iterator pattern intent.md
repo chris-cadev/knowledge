@@ -12,6 +12,6 @@ tags:
 ## References
 
 ### position
-> at start of [Iterator pattern](/Bibliography/Iterator%20pattern.md)
+>  at start of [Iterator pattern](/Bibliography/Iterator%20pattern.md)
 ### author
-> [Refactoring.GURU.](/Authors/Refactoring.GURU..md)
+>  [Refactoring.GURU.](/Authors/Refactoring.GURU..md)

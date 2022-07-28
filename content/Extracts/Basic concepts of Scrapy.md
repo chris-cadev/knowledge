@@ -18,6 +18,6 @@ tags:
 ## References
 
 ### position
-> subheadings in [Scrapy docs](/Bibliography/Scrapy%20docs.md)
+>  subheadings in [Scrapy docs](/Bibliography/Scrapy%20docs.md)
 ### author
-> [[Scrapy developers]]
+>  [[Scrapy developers]]

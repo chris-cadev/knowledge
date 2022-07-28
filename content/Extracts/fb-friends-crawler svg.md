@@ -14,6 +14,6 @@ tags:
 ## References
 
 ### position
-> https://www.facebook.com/groups/731372100390914/posts/884607038400752/
+>  https://www.facebook.com/groups/731372100390914/posts/884607038400752/
 ### author
-> [[Christian Camacho]]
+>  [[Christian Camacho]]

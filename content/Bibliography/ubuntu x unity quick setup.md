@@ -19,6 +19,6 @@ tags:
 ## References
 
 ### source
-> https://github.com/mikenizo808/Quick-Setup-for-Unity3D-on-Ubuntu-20.04-LTS
+>  https://github.com/mikenizo808/Quick-Setup-for-Unity3D-on-Ubuntu-20.04-LTS
 ### author
-> [[mikenizo808]]
+>  [[mikenizo808]]

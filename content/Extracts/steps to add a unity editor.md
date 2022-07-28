@@ -19,6 +19,6 @@ tags:
 ## References
 
 ### author
-> [[]]
+>  [[]]
 ### position
-> https://forum.unity.com/threads/no-editor-installed.893605/#post-5872465 at [Unity Forum - No Editor Installed](/Bibliography/Unity%20Forum%20-%20No%20Editor%20Installed.md)
+>  https://forum.unity.com/threads/no-editor-installed.893605/#post-5872465 at [Unity Forum - No Editor Installed](/Bibliography/Unity%20Forum%20-%20No%20Editor%20Installed.md)

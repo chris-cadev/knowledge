@@ -20,6 +20,6 @@ tags:
 ## References
 
 ### source
-> https://refactoring.guru/design-patterns/iterator
+>  https://refactoring.guru/design-patterns/iterator
 ### author
-> [Refactoring.GURU.](/Authors/Refactoring.GURU..md)
+>  [Refactoring.GURU.](/Authors/Refactoring.GURU..md)

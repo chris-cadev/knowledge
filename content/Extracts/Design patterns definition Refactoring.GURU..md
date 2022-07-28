@@ -17,6 +17,6 @@ tags:
 ## References
 
 ### position
-> 1st paragraph
+>  1st paragraph
 ### author
-> [Refactoring.GURU.](/Authors/Refactoring.GURU..md)
+>  [Refactoring.GURU.](/Authors/Refactoring.GURU..md)

@@ -15,6 +15,6 @@ this if how you change the color of comunities in [[Gephi]]
 ## References
 
 ### position
-> https://youtu.be/kbLFMObmLNQ?t=285
+>  https://youtu.be/kbLFMObmLNQ?t=285
 ### author
-> [[Data J Lab]]
+>  [[Data J Lab]]

@@ -18,6 +18,6 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 ## References
 
 ### author
-> [[nvm.sh]]
+>  [[nvm.sh]]
 ### position
-> https://github.com/nvm-sh/nvm#install--update-script
+>  https://github.com/nvm-sh/nvm#install--update-script

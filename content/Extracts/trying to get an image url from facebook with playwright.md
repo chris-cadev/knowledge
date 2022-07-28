@@ -36,6 +36,6 @@ with sync_playwright() as p:
 ## References
 
 ### position
-> 
+>  
 ### author
-> [[Christian Camacho]]
+>  [[Christian Camacho]]

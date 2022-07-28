@@ -19,6 +19,6 @@ sudo update-initramfs -u
 ## References
 
 ### author
-> [[Mike Shade]]
+>  [[Mike Shade]]
 ### position
-> at the end in [Keychron Linux Function Keys](/Bibliography/Keychron%20Linux%20Function%20Keys.md)
+>  at the end in [Keychron Linux Function Keys](/Bibliography/Keychron%20Linux%20Function%20Keys.md)

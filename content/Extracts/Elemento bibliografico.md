@@ -13,6 +13,6 @@ Un elemento bibliografico es un video, un libro, un articulo, un audio, lo que s
 ## References
 
 ### position
-> https://youtu.be/2rV13AhSHgs?t=312
+>  https://youtu.be/2rV13AhSHgs?t=312
 ### author
-> [Ruben Loan](/Authors/Ruben%20Loan.md)
+>  [Productividad con Ruben Loan](/Authors/Productividad%20con%20Ruben%20Loan.md)

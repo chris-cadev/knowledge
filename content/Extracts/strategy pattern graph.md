@@ -17,6 +17,6 @@ tags:
 ## References
 
 ### position
-> [Design patterns - Strategy](/Bibliography/Design%20patterns%20-%20Strategy.md) Position heading
+>  [Design patterns - Strategy](/Bibliography/Design%20patterns%20-%20Strategy.md) Position heading
 ### author
-> [Dmitry Zhart](/Authors/Dmitry%20Zhart.md)
+>  [Dmitry Zhart](/Authors/Dmitry%20Zhart.md)

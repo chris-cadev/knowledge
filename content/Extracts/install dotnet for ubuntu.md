@@ -34,6 +34,6 @@ dotnet
 ## References
 
 ### author
-> [[mikenizo808]]
+>  [[mikenizo808]]
 ### position
-> https://github.com/mikenizo808/Quick-Setup-for-Unity3D-on-Ubuntu-20.04-LTS#install-net at [ubuntu x unity quick setup](/Bibliography/ubuntu%20x%20unity%20quick%20setup.md)
+>  https://github.com/mikenizo808/Quick-Setup-for-Unity3D-on-Ubuntu-20.04-LTS#install-net at [ubuntu x unity quick setup](/Bibliography/ubuntu%20x%20unity%20quick%20setup.md)

@@ -19,6 +19,6 @@ tags:
 ## References
 
 ### source
-> https://forum.unity.com/threads/no-editor-installed.893605
+>  https://forum.unity.com/threads/no-editor-installed.893605
 ### author
-> [[unity_tLAmJWo7Dp1zbA]]
+>  [[unity_tLAmJWo7Dp1zbA]]

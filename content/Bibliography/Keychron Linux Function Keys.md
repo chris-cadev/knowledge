@@ -21,6 +21,6 @@ tags:
 ## References
 
 ### source
-> https://mikeshade.com/posts/keychron-linux-function-keys/
+>  https://mikeshade.com/posts/keychron-linux-function-keys/
 ### author
-> [[Mike Shade]]
+>  [[Mike Shade]]

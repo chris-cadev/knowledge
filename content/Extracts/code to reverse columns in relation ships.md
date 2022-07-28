@@ -18,6 +18,6 @@ relationships_df = pd.DataFrame(np.sort(relationships.values, axis = 1), columns
 ## References
 
 ### position
-> https://youtu.be/fAHkJ_Dhr50?t=831
+>  https://youtu.be/fAHkJ_Dhr50?t=831
 ### author
-> [Thu Vu data analytics](/Authors/Thu%20Vu%20data%20analytics.md)
+>  [Thu Vu data analytics](/Authors/Thu%20Vu%20data%20analytics.md)
